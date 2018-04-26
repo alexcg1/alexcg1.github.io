@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About Alex
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Alex Cureton-Griffiths. I'm a coder, maker, traveler, coffee addict and general techie. I travel around a lot and love tinkering with stuff.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've been involved with some cool projects, including open-source aerospace technology, open-source ecovillages, and most recently an open-source microservice platform (seeing a pattern here?)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In my spare time you can find me at a coffeeshop, pub, or makerspace, hacking away on some project or other.
