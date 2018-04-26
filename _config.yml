@@ -23,7 +23,7 @@ twitter_username: alexcg
 github_username:  alexcg1
 
 # Build settings
-markdown: kramdown
+markdown: minima
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
