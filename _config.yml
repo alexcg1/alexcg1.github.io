@@ -41,3 +41,5 @@ plugins:
 #   - vendor/ruby/
 
 show_excerpts: true
+
+theme: jekyll-theme-minimal
