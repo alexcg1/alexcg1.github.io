@@ -3,8 +3,6 @@ layout: post
 title:  "How to Lose Developers and Alienate Everyone: Five Pearls of Wisdom. The Fourth will Blow Your Mind!"
 categories: docs
 ---
-# How to Lose Developers and Alienate Everyone: Five Pearls of Wisdom. The Fourth will Blow Your Mind!
-
 You know, there are so many projects out there with great documentation. To make your docs stand out, why not make them crappy instead? Just think of the buzz you'll get on Twitter and all the questions on Stack Overflow trying to find out what anything means! And who needs GitHub Stars when you have an issue queue filling up with basic questions?
 
 So, without further ado, let's Think Different, Be What's Next, and Disrupt your Docs!
