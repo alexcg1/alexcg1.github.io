@@ -31,7 +31,7 @@ Or why not try Lotus Word Pro?
 
 Your project is cutting edge, so your docs should reflect that. No need for any of that frumpy old English - Emojis work across languages and [have no ambiguity](https://www.lifehack.org/388903/how-people-interpret-emojis-differently-will-amaze-you), and if you want to attract a cool, hepcat group of rockstar ninja hackers you need to speak their language. Not employing any 13 year olds? Just ask your niece to yeet something up for you! And don't forget those [amazeballs acronyms](https://imgur.com/DDynzMk) LOL!
 
-![](/images/lol.jpg)
+![](/images/docs/lol.jpg)
 Yes, that's exactly what it means...
 
 **Seriously though...** Don't. Just don't. Nobody hits up your developer docs to be entertained. And many devs are terminal jockeys, and emoji's don't translate well to that environment.
