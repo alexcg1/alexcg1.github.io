@@ -24,7 +24,6 @@ github_username:  alexcg1
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
