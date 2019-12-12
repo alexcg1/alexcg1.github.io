@@ -12,6 +12,7 @@ So, without further ado, let's Think Different, Be What's Next, and Disrupt your
 Your team has put so much effort into developing its own jargon and slang. Sure, some may say it looks like buzzword bingo or an explosion in a dictionary factory, but what do they know? They wouldn't appreciate your [Sesquipedalian Loquaciousness](https://tvtropes.org/pmwiki/pmwiki.php/Main/SesquipedalianLoquaciousness) if it bit them on the nose.
 
 ![Saturday Morning Breakfast Cereal](/images/docs/jargon.gif)
+Thanks to [SMBC](https://www.smbc-comics.com/comic/2010-08-02) for the comic!
 
 Your long words and purple prose ensure everyone can see how smart you and your development team are, and with such an intelligent team they're *bound* to want to use your code!
 
@@ -21,7 +22,8 @@ Your long words and purple prose ensure everyone can see how smart you and your 
 
 Everyone should be free to use the authoring tool of their choice. After all, what's the point in [Free Software](https://en.wikipedia.org/wiki/Free_software) if you don't have the freedom to write your docs in [Scrivener](https://www.literatureandlatte.com/scrivener/overview), Apple Pages, Microsoft Word, or [PowerPoint](https://www.slidemagic.com/blog/2012/07/powerpoint-as-word-processor.html). As long as they get the files onto Github it's all good!
 
-![Or Why not Try Lotus Word Pro?](https://upload.wikimedia.org/wikipedia/en/9/95/Word_Pro.png)
+![](https://upload.wikimedia.org/wikipedia/en/9/95/Word_Pro.png)
+Or why not try Lotus Word Pro?
 
 **Seriously though...** I've had to deal with Apple Pages files being uploaded onto repo's before, and that's by members of the internal dev team. Using a Linux box, [they're a pain in the neck to open](https://askubuntu.com/questions/43430/how-to-open-mac-documents-page-on-libreoffice/709346), and how the hell are you going to do version control on those things? That's not to mention the time a junior dev uploaded Markdown pasted into a Word file, which they then renamed to have an .md extension...
 
@@ -29,7 +31,8 @@ Everyone should be free to use the authoring tool of their choice. After all, wh
 
 Your project is cutting edge, so your docs should reflect that. No need for any of that frumpy old English - Emojis work across languages and [have no ambiguity](https://www.lifehack.org/388903/how-people-interpret-emojis-differently-will-amaze-you), and if you want to attract a cool, hepcat group of rockstar ninja hackers you need to speak their language. Not employing any 13 year olds? Just ask your niece to yeet something up for you! And don't forget those [amazeballs acronyms](https://imgur.com/DDynzMk) LOL!
 
-![Yes, that's exactly what it means...](images/lol.jpg)
+![](/images/lol.jpg)
+Yes, that's exactly what it means...
 
 **Seriously though...** Don't. Just don't. Nobody hits up your developer docs to be entertained. And many devs are terminal jockeys, and emoji's don't translate well to that environment.
 
