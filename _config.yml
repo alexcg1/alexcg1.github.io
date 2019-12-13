@@ -24,7 +24,9 @@ github_username:  alexcg1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
+remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-feed
 
