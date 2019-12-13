@@ -1,10 +1,12 @@
 ---
-title:  "How to Lose Developers and Alienate Everyone: Five Pearls of Wisdom. The Fourth will Blow Your Mind!"
+title:  "Lose Developers and Alienate Everyone: How Not to Write Docs"
 categories: docs
 ---
 You know, there are so many projects out there with great documentation. To make your docs stand out, why not make them crappy instead? Just think of the buzz you'll get on Twitter and all the questions on Stack Overflow trying to find out what anything means! And who needs GitHub Stars when you have an issue queue filling up with basic questions?
 
 So, without further ado, let's Think Different, Be What's Next, and Disrupt your Docs!
+
+**Note:** The tales of woe below are all true. I've personally experienced them...and worse.
 
 ## 1. Sesquipedalian Loquaciousness
 
