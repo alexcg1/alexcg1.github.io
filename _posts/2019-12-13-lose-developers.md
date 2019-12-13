@@ -8,6 +8,8 @@ So, without further ado, let's Think Different, Be What's Next, and Disrupt your
 
 **Note:** The tales of woe below are all true. I've personally experienced them...and worse.
 
+<!--more-->
+
 ## 1. Sesquipedalian Loquaciousness
 
 Your team has put so much effort into developing its own jargon and slang. Sure, some may say it looks like buzzword bingo or an explosion in a dictionary factory, but what do they know? They wouldn't appreciate your [Sesquipedalian Loquaciousness](https://tvtropes.org/pmwiki/pmwiki.php/Main/SesquipedalianLoquaciousness) if it bit them on the nose.
