@@ -1,0 +1,89 @@
+<p>I recently got my hands on some nitinol wire for a project I’m working on. Here are my misadventures in trying to work with the damn stuff.</p>
+
+<h2 id="the-project-biomimetic-butterfly-brooch">The Project: Biomimetic Butterfly Brooch</h2>
+
+<p>I like butterflies. I like looking pretty. I like making stuff. So I’ve decided to make a butterfly brooch that’s hyper-realistic and fools the eye into thinking it’s actually alive.</p>
+
+<p><img src="images/butterfly/real_butterfly.png" alt="" /></p>
+
+<p>To do this, I need the wings to flap and the antennae to move. And since it’s supposed to more or less life-size, I don’t have a lot of room for battery power or motors. I’d seen nitinol before and thought it’d be a fun and interesting solution to the constraints. In short, nitinol is a kind of shape memory alloy. It “remembers” a shape, so when you deform it then add heat or current, it’ll bounce back to the shape it has in its “memory.”</p>
+
+<p>So…<em>is</em> it a viable solution? The jury is still out on that one, at least for the next few days. Let’s wait and see!</p>
+
+<h2 id="getting-the-nitinol">Getting the Nitinol</h2>
+
+<p>I found a supplier on Taobao, the store that has cheap everything. If you’re outside China you may want to check out eBay or AliExpress. There were two main types on nitinol on sale:</p>
+
+<h2 id="pre-shaped-nitinol">Pre-shaped Nitinol</h2>
+
+<p>Often for use in magic tricks. For example, “guessing” your mark’s card and then making this seemingly innocuous piece of metal spring into the shape of the seven of diamonds.</p>
+
+<p><img src="images/butterfly/nitinol_shaped.jpg" alt="" /></p>
+
+<h2 id="raw-nitinol">Raw Nitinol</h2>
+
+<p>In the form of wire. Since I have a specific shape I want to make, I bought a meter of 0.3mm nitinol wire for about 7 RMB (about 1 buck USD at the time of writing)</p>
+
+<p><img src="images/butterfly/nitinol_raw.jpg" alt="" /></p>
+
+<h2 id="first-reactions">First Reactions</h2>
+
+<p><img src="images/butterfly/nitinol_package.jpg" alt="" /></p>
+
+<p>Wow. This stuff is springy. And totally unbendable. And it’s so damn thin that when I put it down, I can’t find it to pick it up again. Also, it’s not magnetic. That’s a big plus, since I may use strong magnets as a fastener for the brooch.</p>
+
+<h2 id="forming-the-shape">Forming the Shape</h2>
+
+<p>Before forming the shape, nitinol is still in its superelastic (springy as hell) form. To give it shape memory, we need to add heat. I didn’t really research this bit enough, but just went ahead and started experimenting by clamping a small piece of nitinol wire in some helping hands, and making it all hot and stuff.</p>
+
+<p>Things I tried:</p>
+
+<p><img src="images/butterfly/nitinol_form_1.jpg" alt="" /></p>
+
+<ul>
+  <li>Soldering iron: Not hot enough</li>
+  <li>Hot air gun: Not hot enough</li>
+  <li>4 x AA batteries: I’d read that current would do the job, and someone had used 4 x AA’ to do it. I didn’t read carefully enough - they’d only used the AA’s to bring it back to it’s remembered shape, not form that shape in memory</li>
+</ul>
+
+<p>At this point I did a bit more research (i.e. did more than impatient skimming) and found out I need a temperature of 500 to 550 degrees Celsius. I figured it’d be better to go too high rather than too low. I’d already seen what happened with too low temperatures (zip, nada, nothing), so figured I should at least try extreme heat if only to see what happens.</p>
+
+<p>So I pulled out the trusty blowtorch and proceeded to NOT set myself aflame. Small victories and all that.</p>
+
+<p><img src="images/butterfly/nitinol_blowtorch_1.jpg" alt="" /></p>
+
+<p>This time I actually made the damn thing bend. Bending a bit of wire doesn’t seem like a big deal, but I’d already invested half a day in this so yay me I guess. I took it out of the clamp and quenched it in a cup of cold water.</p>
+
+<p>!{}(images/butterfly/nitinol_clamp.jpg)</p>
+
+<p>So, the shape was set in memory…or was it?</p>
+
+<h2 id="deforming-the-shape">Deforming the Shape</h2>
+
+<p>Now that the wire was bent, it was time to unbend it to test if it could bounce back. I made a few test pieces - just bits of wire with a kink to test the concept:</p>
+
+<ul>
+  <li>Half of them: I bent into a different shape no problem</li>
+  <li>Half of them: SNAP! Broken in two</li>
+</ul>
+
+<h2 id="reforming-the-shape">Reforming the Shape</h2>
+
+<p>I’d read that just putting the wire in hot water should bring it back to it’s remembered shape. I schlepped up to the hot water machine, heart aflutter. Could all this frustration pay off at last? Had I actually <em>not</em> wasted a whole day obsessing over a kink in some wire?</p>
+
+<p>I put the bent up wire in the cold water and watched intently, waiting for it to reform. Seconds ticked by. And…nothing. It just sat there, like a piece of wire that just sits there. Ugh.</p>
+
+<h2 id="howd-i-mess-up">How’d I Mess Up?</h2>
+
+<p>It was likely because the torch was too hot. 1,000+ degrees, while nitinol needs about 500-550. Even covering the oxygen holes to get a cooler flame on the torch didn’t really work, mostly because we used a rubber band and it was hardly uniform.</p>
+
+<h2 id="back-on-the-wagon">Back on the Wagon</h2>
+
+<p>What’s next? I’ll head back to the hackerspace and try:</p>
+
+<ul>
+  <li>Plan A: Running enough current through the nitinol to heat it enough to set a shape. I’ll use a PSU to start low and ramp up.</li>
+  <li>Plan B: I’ve ordered a different head for the torch, one with a knob that allows me to control the amount of oxygen, so I can get a nice yellow flame instead of a fierce blue one.</li>
+  <li>Plan C: Screw nitinol. I’ve ordered some tiny DC motors, and will 3D print some kind of <a href="https://www.thingiverse.com/thing:2410651">ornithopter mechanism</a> to make the wings on the butterfly flap.</li>
+  <li>Plan D: A friend mentioned using a kiln at a ceramics factory for heat setting a shape in nitinol. This may take time and money to set up though, and I’m not sure it’s worth it at the prototype stage.</li>
+</ul>
