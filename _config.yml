@@ -311,5 +311,5 @@ author:
     icon: "fab fa-fw fa-linkedin"
     url: "https://linkedin.com/in/alexcg"
   - label: RSS
-    icon: "fab fa-fw fa-rss"
+    icon: "fab fas fa-rss"
     url: "https://alexcg1.github.io/feed.xml"
