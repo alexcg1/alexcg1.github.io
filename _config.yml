@@ -24,6 +24,7 @@ github_username:  alexcg1
 
 # Build settings
 markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -41,4 +42,3 @@ plugins:
 
 show_excerpts: true
 
-theme: minima
