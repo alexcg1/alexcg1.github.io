@@ -300,3 +300,13 @@ author:
   avatar: "images/logo.jpg"
   bio: "Bouncing around the world, dev-advocating, software documenting, and getting myself into amusing misadventures"
   location: "Here, there, and everywhere"
+  links:
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/alexcg"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/alexcg1"
+  - label: "Instagram"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/alexcg
