@@ -3,7 +3,6 @@ id: 54
 title: Install Software Quickly via the Command Line
 date: 2018-04-03T15:53:56+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=54
 permalink: /2018/04/03/install-software-on-command-line/
 image: /wp-content/uploads/2018/04/Chocolatey-Screenshot-825x510.png

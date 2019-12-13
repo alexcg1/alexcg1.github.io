@@ -3,7 +3,6 @@ id: 84
 title: 'Throwback Thursday: A Story About &#8216;Magic&#8217;'
 date: 2018-04-05T16:44:05+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=84
 permalink: /2018/04/05/throwback-thursday-a-story-about-magic/
 image: /wp-content/uploads/2018/04/LCM_-_DEC_PDP-10_-_02-825x510.jpg

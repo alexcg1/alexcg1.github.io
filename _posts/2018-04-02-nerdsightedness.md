@@ -3,7 +3,6 @@ id: 42
 title: Nerdsightedness
 date: 2018-04-02T16:26:18+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=42
 permalink: /2018/04/02/nerdsightedness/
 categories:

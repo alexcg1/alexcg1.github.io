@@ -3,7 +3,6 @@ id: 77
 title: Build an Awesome TensorFlow Image Classifier in 10 Minutes!
 date: 2018-04-04T17:07:43+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=77
 permalink: /2018/04/04/build-an-awesome-tensorflow-image-classifier-in-10-minutes/
 categories:

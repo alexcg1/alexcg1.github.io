@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hello Mumbai!"
 date:   2018-01-08 12:27:13 +0800
 categories: travel event india

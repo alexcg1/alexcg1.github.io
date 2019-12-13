@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Links of the Day
 ---
 * [The First Computers in East Africa –and what became of them](http://owaahh.com/the-first-computers-in-east-africa-and-what-became-of-them/)

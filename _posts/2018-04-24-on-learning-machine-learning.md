@@ -3,7 +3,6 @@ id: 129
 title: On Learning Machine Learning
 date: 2018-04-24T16:06:06+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=129
 permalink: /2018/04/24/on-learning-machine-learning/
 categories:

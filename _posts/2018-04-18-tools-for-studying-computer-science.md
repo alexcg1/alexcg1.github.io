@@ -3,7 +3,6 @@ id: 117
 title: Tools for Studying Computer Science
 date: 2018-04-18T15:55:32+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=117
 permalink: /2018/04/18/tools-for-studying-computer-science/
 image: /wp-content/uploads/2018/04/Screenshot-from-2018-04-18-14-51-07-825x510.png

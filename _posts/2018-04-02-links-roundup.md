@@ -3,7 +3,6 @@ id: 28
 title: Links Roundup
 date: 2018-04-02T07:26:09+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=28
 permalink: /2018/04/02/links-roundup/
 categories:

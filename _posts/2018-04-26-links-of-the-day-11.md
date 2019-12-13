@@ -3,7 +3,6 @@ id: 134
 title: Links of the Day
 date: 2018-04-26T11:22:15+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=134
 permalink: /2018/04/26/links-of-the-day-11/
 categories:

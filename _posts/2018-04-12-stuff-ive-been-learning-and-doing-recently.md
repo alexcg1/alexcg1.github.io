@@ -3,7 +3,6 @@ id: 107
 title: 'Stuff I&#8217;ve Been Learning and Doing Recently'
 date: 2018-04-12T15:35:34+00:00
 author: Alex C-G
-layout: post
 guid: http://remix.zone/?p=107
 permalink: /2018/04/12/stuff-ive-been-learning-and-doing-recently/
 categories:

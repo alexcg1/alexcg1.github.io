@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bent Out of Shape - All the Ways (so far) I've Screwed Up with Nitinol
 ---
 I recently got my hands on some nitinol wire for a project I'm working on. Here are my misadventures in trying to work with the damn stuff.
