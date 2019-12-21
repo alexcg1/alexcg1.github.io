@@ -4,7 +4,7 @@ image: /images/cryptozombies/zombies.png
 excerpt: ![](/images/cryptozombies/zombies.png)
 ---
 ![](/images/cryptozombies/zombies.png)
-Just a quick shout-out to anyone wanting to get started coding smart contracts and Dapps with Ethereum: Try out [Cryptozombies](https://cryptozombies.io/). It's by far one of the best tutorials out there for getting a basic feel for developing with Solidity, and how it differs from other languages. I've been through the whole thing myself, and had a great time doing so.
+Want to learn how to code smart contracts and Dapps with Ethereum? Try out [Cryptozombies](https://cryptozombies.io/). It's by far one of the best tutorials I've found for getting a basic feel for Solidity and how it differs from other languages. I've been through the whole thing myself, and had a great time building my unstoppable zombie horde along the way.
 
 Disclaimer: I have no affiliation with Cryptozombies or CleverFlare - I just know good resources when I see them!
 
