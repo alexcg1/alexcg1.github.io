@@ -7,4 +7,4 @@ Just a quick shout-out to anyone wanting to get started coding smart contracts a
 
 Disclaimer: I have no affiliation with Cryptozombies or CleverFlare - I just know good resources when I see them!
 
-Dislaimer 2: I'm not sure if the release of Solidity 0.6.0 introduces any breaking changes compared to what you learn in the course. Even so, it's still good for getting your bearings with the language (and building a fun deck of zombie cards)
+Dislaimer 2: I'm not sure if the [release of Solidity 0.6.0](https://github.com/ethereum/solidity/releases) introduces any breaking changes compared to what you learn in the course. Even so, it's still good for getting your bearings with the language (and building a fun deck of zombie cards)
