@@ -22,14 +22,14 @@ I've finally worked out a fix. In your .zshrc (or .bashrc or .whateverrc) file:
 alias sudo='nocorrect sudo -E '
 ```
 
+Now, when I type ```sudo vim foo.txt```, it brings up Neovim with my own settings!
+
 ## Breaking It Down
 
 * ```nocorrect``` - required by zsh for autocorrect to work with sudo
 * ```-E``` - tells sudo to respect the environment it's being started in (i.e. the environment with *my* dotfiles)
 * The space at the end - passes aliases through to sudo
 
-So now, when I type ```sudo vim foo.txt```, it brings up Neovim with my own settings!
-
 ## Notes
 
-* Maybe this only happened since I moved over to [zsh](https://en.wikipedia.org/wiki/Z_shell) from [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)? I can't remember to be honest
+* Maybe this only [[happened]] since I moved over to [zsh](https://en.wikipedia.org/wiki/Z_shell) from [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)? I can't remember to be honest
