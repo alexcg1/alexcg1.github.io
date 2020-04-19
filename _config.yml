@@ -242,7 +242,7 @@ author:
   location: "Here, there, and everywhere"
   links:
   - label: "Gitlab"
-    icon: "fab fas fa-gitlab"
+    icon: "fab fa-gitlab"
     url: "https://gitlab.com/alexcg1"
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
