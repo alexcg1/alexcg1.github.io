@@ -3,9 +3,7 @@ title: "Around the World in 26 Cuisines"
 tags: "food"
 ---
 
-# Around the World in 26 Cuisines
-
-Over the course of the lockdown, I've been working, coding, sleeping, and binging [Legends of Tomorrow(https://en.wikipedia.org/wiki/Legends_of_Tomorrow)]. I've also been doing a lot of cooking, especially with my slow cooker.
+Over the course of the lockdown, I've been working, coding, sleeping, and binging [Legends of Tomorrow](https://en.wikipedia.org/wiki/Legends_of_Tomorrow)]. I've also been doing a lot of cooking, especially with my slow cooker.
 
 With that in mind (and not much else to occupy us), by bubble buddies and I have decided upon a chalenge. We're going to cook a different dish each day (who am I kidding, whenever we feel like it), and each dish will be from a country starting with a different letter.
 
