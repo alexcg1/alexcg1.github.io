@@ -22,4 +22,4 @@ Today, we're kicking off with:
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Angola):
 
-> [[Angola]] is a country on the west coast of Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and largest city of Angola is Luanda.
+> Angola is a country on the west coast of Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and largest city of Angola is Luanda.
