@@ -53,7 +53,10 @@ Back when I was a struggling student surviving on ramen and mince and cheese pie
 
 Then I saw a computer magazine in a local shop. It was one of those ones with CD-ROMs stuck to the front, offering the latest and greatest demos, shareware, and full versions of out-of-date software. And in this case, something called [Knoppix Linux](https://www.knopper.net/knoppix/index-en.html). For about 5 quid, I could not only get a new operating system, but one that came preinstalled with an office suite, programming IDE, graphics editor, and more. And I could share it with my friends for free!
 
-![](/images/open_source/knoppix.jpg)
+<figure>
+  <img src="{{site.url}}/images/open_source/gnome1.png" alt="Gnome 1.0"/>
+  <figcaption>Gnome 1.0: This was my first Linux desktop, back in the day</figcaption>
+</figure>
 
 For a penniless student like myself, this was the *only* way I could've got my grubby little hands on all of these shiny goodies. Pirating really wasn't an option on a 56k baud modem, and this was before torrenting was really a thing.
 
