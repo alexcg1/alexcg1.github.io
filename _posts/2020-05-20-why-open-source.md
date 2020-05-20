@@ -24,6 +24,11 @@ Humans love novelty. Some people want to try new foods, or see new places, or fi
 
 On Windows I'm limited to changing my wallpaper or dragging my taskbar around. Or installing [third-party graphical shells](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) that don't play nicely with the underlying system. On a Mac I'd have similar issues.
 
+<figure>
+  <img src="{{site.url}}/images/open_source/litestep.jpg" alt="Litestep"/>
+  <figcaption><a href="https://github.com/lsdev/LiteStep">Litestep windows shell</a></figcaption>
+</figure>
+
 But on Linux I can get infinite diversity in infinite combinations. I can run the latest whiz-bang environment with [rotating desktop cubes](https://www.youtube.com/watch?v=4QokOwvPxrE), or a barebones terminal with no graphics, or something that looks like it [crawled out of the nineties](https://www.theregister.co.uk/2012/08/09/cde_goes_opensource/). And I can mix and match bits of them as I see fit.
 
 My current setup is a stripped-down graphical interface that I mostly use for running a terminal emulator and web browser. It's fully keyboard-driven, uses arcane key bindings (thank you Vim!), and is almost perfectly tailored for my needs. Going back to one of the standard operating systems makes me feel like typing with boxing gloves on.
