@@ -102,8 +102,10 @@ What happens if an open-source project goes under? If enough people care about i
 
 ### You Learn
 
-> If I have seen further it is by standing on the shoulders of giants
-- Isaac Newton
+<figure>
+  <img src="{{site.url}}/images/open_source/newton.jpg" alt="Isaac Newton"/>
+  <figcaption>Fun fact: Isaac was also known for <a href="https://www.forbes.com/sites/rosspomeroy/2013/11/04/why-was-isaac-newton-such-a-jerk/">being a dick</a> and <a href="https://psmag.com/social-justice/newtons-needle-scientific-self-experimentation-86583">sticking knitting needles into his own head</a></figcaption>
+</figure>
 
 This is the quote that always springs to mind when I think of what open source has done for me personally. I got started with coding back in the bad old days of MS-DOS 5.0 and QBasic. I have fond memories of editing the physics in the [Gorillas game](https://classicreload.com/qbasic-gorillas.html) to make the bananas fly where I wanted, and trying to build a Zork-like text adventure without initially realizing the sheer amount of object interactions I'd have to deal with.
 
