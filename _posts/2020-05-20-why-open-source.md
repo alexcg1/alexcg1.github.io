@@ -43,6 +43,10 @@ Open source software has the potential to continuously improve, and be driven by
 You don't like the direction in which your desktop environment is progressing? If enough users feel the same way, you can get together, fork it, and take it in a new direction. The MATE crew did just this with the Gnome 2.0 codebase - they didn't like the vision for Gnome 3.0, so took the 2.0 code and built their own version out of that. Just imagine trying to do the same thing with Windows or MacOS (admittedly, Gnome and MATE a desktop environments rather than operating systems like Windows, but that's the beauty of it. Because it's an open ecosystem, things are more modular. One system can have multiple desktop environments built in many different ways)
 
 ![Mate Desktop](/images/open_source/mate.jpg)
+<figure>
+  <img src="{{site.url}}/images/open_source/mate.jpg" alt="my alt text"/>
+  <figcaption>MATE Desktop</figcaption>
+</figure>
 
 ### Who Wants to Live Forever?
 
