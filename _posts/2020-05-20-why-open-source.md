@@ -3,6 +3,9 @@ title: Why Open Source?
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
+header:
+  caption: "Photo by Alina Grubnyak on Unsplash"
+  image: /images/open_source/open_sign.jpg
 ---
 
 So, I've got an idea in my head (well, where else would it be?) about comparing open source to magic. That still needs a while to brew in my wizard's cauldron, so stay tuned or set a [remembrall](https://harrypotter.fandom.com/wiki/Remembrall) to come back and check some time in the future.
