@@ -13,6 +13,8 @@ However: One of the many ideas in open source is "release early, release often",
 
 On with the show...
 
+<!-- more -->
+
 ### I Want It That Way
 
 Humans love novelty. Some people want to try new foods, or see new places, or find new ways to use their [coffee maker](https://www.youtube.com/watch?v=Z9Pa7hxJUfA). I'm all three of those. But being a geek from birth, I also love finding new ways to use (and sometimes break) my computer.
@@ -64,7 +66,6 @@ For a kid like myself, this was the *only* way I could've got my hands on all of
 
 Open source software has the potential to continuously improve, and be driven by the needs of the users themselves. Sure, you could say that Windows 10 is an improvement on Vista, but there are definite downsides like ads clogging up your Start menu and your telemetry being reported back to Microsoft.
 
-![](/images/open_source/start_menu_ads.png)
 <figure>
   <img src="{{site.url}}/images/open_source/start_menu_ads.png" alt="Windows 10 start menu"/>
   <figcaption>Where do you want to go today? Uh, not there...</figcaption>
@@ -115,8 +116,3 @@ Gorillas came with Qbasic, and the code was available to view and edit. But real
 
 Because I was building on open code bases (or in some cases, just open APIs and SDKs), I could see the magic for myself. The more popular programming languages and frameworks have extensive documentation and YouTube tutorials created by the community that helped me get running quickly, and by sharing the code myself, others helped me test it, fix bugs, and make it even better.
 
-### Attributions
-
-Thanks to:
-
-* [Monado]() for the US Robotics Modem image
