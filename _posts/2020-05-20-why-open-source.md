@@ -31,6 +31,8 @@ On Windows I'm limited to changing my wallpaper or dragging my taskbar around. O
 
 But on Linux I can get infinite diversity in infinite combinations. I can run the latest whiz-bang environment with [rotating desktop cubes](https://www.youtube.com/watch?v=4QokOwvPxrE), or a barebones terminal with no graphics, or something that looks like it [crawled out of the nineties](https://www.theregister.co.uk/2012/08/09/cde_goes_opensource/). And I can mix and match bits of them as I see fit.
 
+<iframe src='https://gfycat.com/ifr/PresentBareIcterinewarbler' frameborder='0' scrolling='no' allowfullscreen width='640' height='444'></iframe><p> <a href="https://gfycat.com/presentbareicterinewarbler">via Gfycat</a></p>
+
 My current setup is a stripped-down graphical interface that I mostly use for running a terminal emulator and web browser. It's fully keyboard-driven, uses arcane key bindings (thank you Vim!), and is almost perfectly tailored for my needs. Going back to one of the standard operating systems makes me feel like typing with boxing gloves on.
 
 <figure>
@@ -58,11 +60,15 @@ For a kid like myself, this was the *only* way I could've got my hands on all of
 Open source software has the potential to continuously improve, and be driven by the needs of the users themselves. Sure, you could say that Windows 10 is an improvement on Vista, but there are definite downsides like ads clogging up your Start menu and your telemetry being reported back to Microsoft.
 
 ![](/images/open_source/start_menu_ads.png)
+<figure>
+  <img src="{{site.url}}/images/open_source/start_menu_ads.png" alt="Windows 10 start menu"/>
+  <figcaption>Where do you want to go today? Uh, not there...</figcaption>
+</figure>
 
 You don't like the direction in which your desktop environment is progressing? If enough users feel the same way, you can get together, fork it, and take it in a new direction. The [MATE Desktop](https://mate-desktop.org/) crew did just this with the [Gnome](http://www.gnome.org) codebase - they didn't like the vision for Gnome 3.0, so took the 2.0 code and built their own version out of that. Just imagine trying to do the same thing with Windows or MacOS (admittedly, Gnome and MATE a desktop environments rather than operating systems like Windows, but that's the beauty of it. Because it's an open ecosystem, things are more modular. One system can have multiple desktop environments built in many different ways)
 
 <figure>
-  <img src="{{site.url}}/images/open_source/mate.jpg" alt="my alt text"/>
+  <img src="{{site.url}}/images/open_source/mate.jpg" alt="MATE desktop"/>
   <figcaption>MATE Desktop</figcaption>
 </figure>
 
@@ -70,11 +76,9 @@ You don't like the direction in which your desktop environment is progressing? I
 
 What's the most popular word processing software in the world? What happens if the owner goes out of business?
 
-<figure>
   <img src="{{site.url}}/images/open_source/wordstar.jpg" alt="Wordstar"/>
-</figure>
 
-I'm not talking about Microsoft Word. I'm talking about [WordStar](https://en.wikipedia.org/wiki/WordStar), the dominant word processor of the 1980s. Thousands of users, including [George R. R. Martin](https://slate.com/technology/2014/05/george-r-r-martin-writes-on-dos-based-wordstar-4-0-software-from-the-1980s.html) (from Game of Thrones fame) were left in the cold when it was abandoned. They'd invested time and effort into learning this system, and now what? Over time, operating systems deprecate old functions and old software "rots". Now the only way to run that once powerful program is to install Linux and DOS emulator on top of that. Otherwise all of those .ws files you spent hours, days, and years on, are if completely inaccessible, a [PITA](https://www.netlingo.com/word/pita.php) to work with. It's kind of ironic that now the only way to work with closed software like WordStar is an open source system.
+I'm not talking about Microsoft Word. I'm talking about [WordStar](https://en.wikipedia.org/wiki/WordStar), the dominant word processor of the 1980s. Thousands of users, including [George R. R. Martin](https://slate.com/technology/2014/05/george-r-r-martin-writes-on-dos-based-wordstar-4-0-software-from-the-1980s.html) (from Game of Thrones fame) were left in the cold when it was abandoned. They'd invested time and effort into learning this system, and now what? Over time, operating systems deprecate old functions and old software "rots". Now the only way to run that once powerful program is to [install Linux and DOS emulator on top of that](https://en.wikipedia.org/wiki/WordStar#Running_WordStar_in_modern_platforms). Otherwise all of those .ws files you spent hours, days, and years on, are if not completely inaccessible, a total [PITA](https://www.netlingo.com/word/pita.php) to work with. It's kind of ironic that now the only way to work with closed software like WordStar is via an open source system.
 
 Now, how would that look in the modern day? Microsoft is way bigger than just Word, so let's look at a smaller company that makes productivity tools: What would happen if Adobe went under?
 
@@ -82,6 +86,11 @@ Now, how would that look in the modern day? Microsoft is way bigger than just Wo
 * Even sooner than that, Adobe's license activation servers would go down. Since Adobe Creative Suite is Software as a Service (SaaS), it relies on these servers to verify you're a paying customer. No server means no verification means you'll either have features restricted or you'll be locked out completely
 * What happens then to all your PSD and AI files? You might be able to do *something* with them in [Inkscape](https://inkscape.org/) or [GIMP](http://www.gimp.org), but there's not 100% compatibility
 * If you want to keep moving forwards, you'll need to learn a new piece of software. Goodbye muscle memory and interface familiarity!
+
+<figure>
+  <img src="{{site.url}}/images/open_source/adobe_nope.png" alt="Adobe dialog box"/>
+  <figcaption>Illustrator? I barely knew 'er!</figcaption>
+</figure>
 
 What happens if an open-source project goes under? If enough people care about it they can fork the code and keep it going themselves, just like MATE did.
 
