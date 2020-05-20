@@ -20,7 +20,7 @@ But on Linux I can get infinite diversity in infinite combinations. I can run th
 
 My current setup is a stripped-down graphical interface that I mostly use for running a terminal emulator and web browser. It's fully keyboard-driven, uses arcane key bindings (thank you Vim!), and is almost perfectly tailored for my needs. Going back to one of the standard operating systems makes me feel like typing with boxing gloves on.
 
-![My current desktop, running Gnome and PaperWM](images/open_source/2020_gnome-desktop.png)
+![My current desktop, running Gnome and PaperWM](/images/open_source/2020_gnome-desktop.png)
 
 ### The Best Things in Life are Free
 
@@ -28,21 +28,21 @@ Back when I was a struggling student surviving on ramen and mince and cheese pie
 
 Then I saw a computer magazine in a local shop. It was one of those ones with CD-ROMs stuck to the front, offering the latest and greatest demos, shareware, and full versions of out-of-date software. And in this case, something called [Knoppix Linux](https://www.knopper.net/knoppix/index-en.html). For about 5 quid, I could not only get a new operating system, but one that came preinstalled with an office suite, programming IDE, graphics editor, and more.
 
-![](images/open_source/knoppix.jpg)
+![](/images/open_source/knoppix.jpg)
 
 For a kid like myself, this was the *only* way I could've got my hands on all of these goodies. Pirating really wasn't an option on a 56k baud modem, and this was before torrenting was really a thing.
 
-![](images/open_source/modem.jpg)
+![](/images/open_source/modem.jpg)
 
 ### I've Got the Power
 
 Open source software has the potential to continuously improve, and be driven by the needs of the users themselves. Sure, you could say that Windows 10 is an improvement on Vista, but there are definite downsides like ads clogging up your Start menu and your telemetry being reported back to Microsoft.
 
-![](images/open_source/start_menu_ads.png)
+![](/images/open_source/start_menu_ads.png)
 
 You don't like the direction in which your desktop environment is progressing? If enough users feel the same way, you can get together, fork it, and take it in a new direction. The MATE crew did just this with the Gnome 2.0 codebase - they didn't like the vision for Gnome 3.0, so took the 2.0 code and built their own version out of that. Just imagine trying to do the same thing with Windows or MacOS (admittedly, Gnome and MATE a desktop environments rather than operating systems like Windows, but that's the beauty of it. Because it's an open ecosystem, things are more modular. One system can have multiple desktop environments built in many different ways)
 
-![Mate Desktop](images/open_source/mate.jpg)
+![Mate Desktop](/images/open_source/mate.jpg)
 
 ### Who Wants to Live Forever?
 
