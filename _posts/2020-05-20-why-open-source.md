@@ -44,6 +44,11 @@ My current setup is a stripped-down graphical interface that I mostly use for ru
 
 Back when I was a struggling student surviving on ramen and mince and cheese pies, I sure as Hell didn't have any spare funds to throw at the latest Windows upgrade or (Heaven forbid) buying a Mac. I was stuck with what I had, or what I could download.
 
+<figure>
+  <img src="{{site.url}}/images/open_source/pie.jpg" alt="pie"/>
+  <figcaption>What I ate every day at university in New Zealand. Except mine didn't look half as tasty. <a href="https://www.flickr.com/photos/itravelnz/7667051700">Thanks to itravelnz for the pic</a></figcaption>
+</figure>
+
 Then I saw a computer magazine in a local shop. It was one of those ones with CD-ROMs stuck to the front, offering the latest and greatest demos, shareware, and full versions of out-of-date software. And in this case, something called [Knoppix Linux](https://www.knopper.net/knoppix/index-en.html). For about 5 quid, I could not only get a new operating system, but one that came preinstalled with an office suite, programming IDE, graphics editor, and more.
 
 ![](/images/open_source/knoppix.jpg)
@@ -52,7 +57,7 @@ For a kid like myself, this was the *only* way I could've got my hands on all of
 
 <figure>
   <img src="{{site.url}}/images/open_source/modem.jpg" alt="US Robotics Modem"/>
-  <figcaption>The "good" old days</figcaption>
+  <figcaption>The "good" old days. Thanks to <a href="https://www.flickr.com/photos/monado/4406606802">monado</a> for the pic</figcaption>
 </figure>
 
 ### I've Got the Power
@@ -114,4 +119,4 @@ Because I was building on open code bases (or in some cases, just open APIs and 
 
 Thanks to:
 
-* [Monado](https://www.flickr.com/photos/monado/4406606802) for the US Robotics Modem image
+* [Monado]() for the US Robotics Modem image
