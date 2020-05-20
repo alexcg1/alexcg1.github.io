@@ -2,17 +2,25 @@
 title: Why Open Source?
 ---
 
-## Why Open Source?
-
 So, I've got an idea in my head (well, where else would it be?) about comparing open source to magic. That still needs a while to brew in my wizard's cauldron, so stay tuned or set a [remembrall](https://harrypotter.fandom.com/wiki/Remembrall) to come back and check some time in the future.
 
 However: One of the many ideas in open source is "release early, release often", so I'm putting up my initial thoughts now, in advance of weaving it into a more magical narrative. It may have bugs, annoyances, and a few swear words, but rest assured if it breaks you can keep both pieces. And feel free to cringe at the titles, taken from popular songs - because what's more magical than music?
+
+<figure>
+  <img src="{{site.url}}/images/open_source/a-kind-of-magic.jpg" alt="A Kind of Magic"/>
+  <figcaption>How could I possibly resist putting this in?</figcaption>
+</figure>
 
 On with the show...
 
 ### I Want It That Way
 
 Humans love novelty. Some people want to try new foods, or see new places, or find new ways to use their [coffee maker](https://www.youtube.com/watch?v=Z9Pa7hxJUfA). I'm all three of those. But being a geek from birth, I also love finding new ways to use (and sometimes break) my computer.
+
+<figure>
+  <img src="{{site.url}}/images/open_source/broken-pc.jpg" alt="Broken PC"/>
+  <figcaption>My PC, after one too many blue screens of death</figcaption>
+</figure>
 
 On Windows I'm limited to changing my wallpaper or dragging my taskbar around. Or installing [third-party graphical shells](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) that don't play nicely with the underlying system. On a Mac I'd have similar issues.
 
@@ -21,7 +29,7 @@ But on Linux I can get infinite diversity in infinite combinations. I can run th
 My current setup is a stripped-down graphical interface that I mostly use for running a terminal emulator and web browser. It's fully keyboard-driven, uses arcane key bindings (thank you Vim!), and is almost perfectly tailored for my needs. Going back to one of the standard operating systems makes me feel like typing with boxing gloves on.
 
 <figure>
-  <img src="{{site.url}}/images/open_source/2020_gnome-desktop.jpg" alt="My Gnome desktop"/>
+  <img src="{{site.url}}/images/open_source/2020_gnome-desktop.png" alt="My Gnome desktop"/>
   <figcaption>My current desktop, running Gnome and <a href="https://github.com/paperwm/PaperWM">PaperWM</a></figcaption>
 </figure>
 
@@ -80,7 +88,7 @@ What happens if an open-source project goes under? If enough people care about i
 This is the quote that always springs to mind when I think of what open source has done for me personally. I got started with coding back in the bad old days of MS-DOS 5.0 and QBasic. I have fond memories of editing the physics in the [Gorillas game](https://classicreload.com/qbasic-gorillas.html) to make the bananas fly where I wanted, and trying to build a Zork-like text adventure without initially realizing the sheer amount of object interactions I'd have to deal with.
 
 <figure>
-  <img src="{{site.url}}/images/open_source/gorillas.jpg" alt="Wordstar"/>
+  <img src="{{site.url}}/images/open_source/gorilla.jpg" alt="Qbasic gorillas"/>
   <figcaption>Other kids got Donkey Kong. I had this monstrosity instead</figcaption>
 </figure>
 
