@@ -1,5 +1,5 @@
 ---
-title: "New Project - Better Job Search"
+title: New Project - Better Job Search
 categories: "software", "python"
 ---
 
