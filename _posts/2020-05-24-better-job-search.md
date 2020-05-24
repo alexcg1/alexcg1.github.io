@@ -1,6 +1,5 @@
 ---
 title: New Project - Better Job Search
-categories: "software", "python"
 ---
 
 # New Project: Better Job Search
