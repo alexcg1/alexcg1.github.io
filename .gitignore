@@ -1,3 +1,15 @@
 _site
 old/
 .travis.yml
+Gemfile
+Gemfile.lock
+Rakefile
+_data/ui-text.yml
+docs/
+minimal-mistakes-jekyll.gemspec
+package-lock.json
+package.json
+screenshot-layouts.png
+screenshot.png
+staticman.yml
+test/
