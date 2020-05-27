@@ -1,6 +1,6 @@
 ---
 title: "Stuff I Use: May 2020 Edition"
-tags: "lists", "linux", "tools", "command line"
+tags: [lists, linux, tools, command line]
 ---
 
 I'm always on the lookout for tools to make my life easier, especially if I can do that in a vim-like manner on the command line. Here are a few of the things I'm using as of today
