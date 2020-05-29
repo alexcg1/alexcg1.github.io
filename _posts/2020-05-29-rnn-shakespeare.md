@@ -5,6 +5,8 @@ tags: [shakespeare, machine learning, rnn, python, tensorflow]
 
 I've just been noodling around with some [RNN (recurrent neural network) tutorials](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=16844s) for NLP to create scripts for plays or TV shows, both for my own interest and a project idea I have in mind. After 100 epochs or so, I can feed it the text of *Romeo and Juliet* and it's returning *something* that sounds Shakespearean. I mean, it's gibberish, but at least it's *Shakespearean* gibberish:
 
+![](/images/rnn-shakespeare/monkey.jpg)
+
 [Link to Notebook](https://colab.research.google.com/drive/1ysEKrw_LE2jMndo1snrZUh5w87LQsCxk#forceEdit=true&sandboxMode=true) - it's the second section, called **RNN Play Generator**
 
 From the starting phrase `Romeo`:
@@ -64,3 +66,7 @@ From the starting phrase `Romeo`:
 > envilake you, that you have worn this 
 
 I'm going to try some Star Trek next...
+
+#### Attributions
+
+Thanks to [Wikicommons](https://commons.wikimedia.org/wiki/File:Chimpanzee_seated_at_typewriter.jpg) for the image
