@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About Alex
+title: "About Alex"
 permalink: about
 ---
 
