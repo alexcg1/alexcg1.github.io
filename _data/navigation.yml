@@ -2,3 +2,5 @@
 main:
 - title: "Github"
   url: 'http://www.github.com/alexcg1'
+- title: "Projects"
+  url: './projects'
