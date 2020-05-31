@@ -1,7 +1,7 @@
 # main links
 main:
-- title: "Github"
-  url: 'http://www.github.com/alexcg1'
+- title: "About"
+  url: './about'
 - title: "Projects"
   url: './projects'
 - title: "Video"

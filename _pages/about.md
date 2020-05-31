@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Alex
-permalink: /about/
+permalink: about
 ---
 
 I'm Alex Cureton-Griffiths. I'm a coder, maker, traveler, coffee addict and general techie. I travel around a lot and love tinkering with stuff.
