@@ -1,5 +1,6 @@
 ---
 title: "Videos"
+permalink: video
 ---
 ## Newton Project
 
