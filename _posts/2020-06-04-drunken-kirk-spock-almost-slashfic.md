@@ -2,9 +2,9 @@
 title: "Almost a Slashfic: Kirk and Spock drinking beer"
 ---
 
-Script_buddy has done it again. Kirk and Spock drinking beer and having awkward conversations about airports. You can cut the sexual tension with a knife.
+Script_buddy has done it again. Kirk and Spock drinking beer and having awkward conversations about airports. You can cut the sexual tension with a knife. It's a perfect [slashfic](https://en.wikipedia.org/wiki/Slash_fiction).
 
-I'm still not quite sure how much of this output is from the Star Trek stuff I'm feeding in to script_buddy, and how much is it just riffing on material from the Internet Movie Scripts Database (which it has been trained on). I've written a script to create a more structured version of the Star Trek data and will try feeding that in over the next few days.
+I'm still not quite sure how much of this output is from the Star Trek stuff I'm feeding in to script_buddy, and how much is it just riffing on material from the Internet Movie Scripts Database (which it's been pre-trained on). I've written a script to create a more structured version of the Star Trek data and will try feeding that in over the next few days.
 
 Now, without further ado:
 
