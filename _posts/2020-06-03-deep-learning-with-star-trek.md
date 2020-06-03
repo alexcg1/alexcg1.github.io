@@ -11,6 +11,8 @@ I've been thinking lately, that sooner or later it'll be possible to create TV e
 
 Today, many of the above technologies are still in their infancy, and I'm not confident we could re-create an episode of say, *Star Trek*, that would fool anybody. But we can create a janky knock-off just for the hell of it. Think of it as like [B-4](https://memory-alpha.fandom.com/wiki/B-4), the less bright younger brother of Lieutenant Commander Data.
 
+<iframe src="https://giphy.com/embed/QQKhpfeRQqz6M" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-trek-data-QQKhpfeRQqz6M">via GIPHY</a></p>
+
 Now, if we're creating a TV show, the first thing we need is a script. I used [script buddy v2](https://github.com/cdpierse/script_buddy_v2), a film script text generation tool. It was a pain in the ass to get it up and running (I'm looking at you `pip install torch` and your not being able to find a version on Pypi that *clearly exists*) but I got there in the end. It's even got a pretty graphical interface:
 
 ![](https://raw.githubusercontent.com/cdpierse/script_buddy_v2/master/script_buddy/images/app.gif)
@@ -120,12 +122,18 @@ I haven't yet fine-tuned it for Star Trek (that'll be for a future post), but he
 
 ### Thoughts
 
-I mean it's not great, and it's not Star Trek, but it's not bad:
+I mean it's not great, and it's not Star Trek, yet but it's not completely bad:
 
+#### The Good
+
+<iframe src="https://giphy.com/embed/NJZMSqRY3rG9i" width="480" height="363" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/captain-slow-NJZMSqRY3rG9i">via GIPHY</a></p>
+ 
 * It clearly picked up on the space angle with its mentions of Jupiter
 * I dig the cinematic opening with the solar flare and planet turning to glass
 
-It fell down a lot too:
+#### The Ridiculous
+
+<iframe src="https://giphy.com/embed/tJZIYxsfFPs4" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/janet-napolitano-tJZIYxsfFPs4">via GIPHY</a></p>
 
 * The Enterprise completed Starfleet's mission pretty damn early, right in the first few lines it's already boldly gone and done it
 * A dance studio? I guess it could be in a holodeck??
