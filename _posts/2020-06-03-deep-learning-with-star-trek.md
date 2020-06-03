@@ -133,7 +133,7 @@ I mean it's not great, and it's not Star Trek, yet but it's not completely bad:
 
 #### The Ridiculous
 
-<iframe src="https://giphy.com/embed/tJZIYxsfFPs4" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/janet-napolitano-tJZIYxsfFPs4">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/NJZMSqRY3rG9i" width="480" height="363" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/captain-slow-NJZMSqRY3rG9i">via GIPHY</a></p>
 
 * The Enterprise completed Starfleet's mission pretty damn early, right in the first few lines it's already boldly gone and done it
 * A dance studio? I guess it could be in a holodeck??
