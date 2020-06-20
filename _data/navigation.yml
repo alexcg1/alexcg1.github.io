@@ -8,3 +8,7 @@ main:
   url: './video'
 - title: "Contact"
   url: './contact'
+
+notes:
+- title: "Cooking"
+  url: './notes/cooking'
