@@ -1,6 +1,8 @@
 ---
 title: "Writing Shakespeare with an RNN"
 tags: [shakespeare, machine learning, rnn, python, tensorflow]
+splash_img_source: /assets/img/shakespeare.jpg
+layout: post
 ---
 
 I've just been noodling around with some [RNN (recurrent neural network) tutorials](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=16844s) for NLP to create scripts for plays or TV shows, both for my own interest and a project idea I have in mind. After 100 epochs or so, I can feed it the text of *Romeo and Juliet* and it's returning *something* that sounds Shakespearean. I mean, it's gibberish, but at least it's *Shakespearean* gibberish:

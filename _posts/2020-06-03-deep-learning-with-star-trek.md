@@ -1,6 +1,9 @@
 ---
 title: "Deep Learning with Star Trek: Part 1"
+layout: post
 tags: [star trek, nlp, deep learning, script buddy, machine learning, sci-fi]
+splash_img_source: /assets/img/mccoy.jpg
+splash_img_caption: https://www.flickr.com/photos/jdhancock/11793065705
 ---
 
 I've been thinking lately, that sooner or later it'll be possible to create TV episodes with deep learning. Just look at the tech we already have:

@@ -1,5 +1,9 @@
 ---
 title: Avenging Trek Wars
+splash_img_caption: https://unsplash.com/photos/X_d7m2r70bA
+splash_img_source: /assets/img/clapboard.jpg
+tags: [nlp, machine learning, deep learning, transformers, python]
+layout: post
 ---
 
 Script buddy has now absorbed most of Star Trek TNG, DS9, and the movies! It's also done it's first crossover, which I certainly wasn't expecting. Love that it's got the Borg, Romulans, AND Thor. Stoik sounds like kind of a Vulcan name and it's hilarious he goes for a lightsaber rather than a nerve pinch.
