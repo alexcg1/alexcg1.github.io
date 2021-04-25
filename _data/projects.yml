@@ -10,6 +10,19 @@
 
   tags: [jina, python, neural_search]
 
+- name: Animatronic Butterfly Jewelry
+  id: butterfly
+  description_less: >
+    <p>Electronic (yet classy) jewelry designs for life-size(ish) butterflies that sit on your clothes and move realistically</p>
+  description_more: >
+    <ul>
+      <li>Still a work in progress. Things have been slow with hackerspaces closed and shipments disrupted due to pandemic</li>
+      <li>No, they don't fly. Who wants jewelry that instantly flies away and gets lost?</li>
+      <li>Coded in Arduino, running on ATtiny chip for now</li>
+      <li>Designed in Fusion360/OpenSCAD</li>
+    </ul>
+  tags: [hardware, creative, design, electronics, jewelry, fashion]
+
 - name: Gödel Escher Bach Resources
   id: geb
   description_less: >
@@ -36,7 +49,6 @@
 
 - name: Easy Text Generator
   id: easy-text
-  #img_src: /assets/img/projects/mediawiki.png
   description_less: >
     AI-powered text generation for mere mortals.
   description_more: >
@@ -44,3 +56,30 @@
     <a href="https://github.com/alexcg1/easy_text_generator" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i>&nbsp;Repository</a>
 
   tags: [nlp, transformers, streamlit, python]
+
+- name: Medprint
+  id: medprint
+  description_less: >
+    <p>Django project to help hospitals crowdsource PPE from maker community</p>
+    <a href="https://gitlab.com/medprint" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i>&nbsp;Repository</a>
+
+  tags: [medical]
+
+- name: Open Source Ecovillages
+  id: ecovillage
+  description_less: >
+    <p>Testing and deploying open-source infrastructure for village improvement in China</p>
+    <a href="https://fossforce.com/2017/02/building-open-source-village/" target="_blank" class="btn btn-dark mb-1"><i class="fab fa-youtube"></i>&nbsp;Video</a>
+
+- name: SpaceGAMBIT
+  id: spacegambit
+  img_src: /assets/img/projects/spacegambit.png
+  tags: [open-source, aerospace, nasa]
+  description_less: >
+    <p>open source space program, partnered with DARPA, NASA, (Obama-era) White House</p>
+  description_more: >
+    <p>(working on getting website archive up again)</p>
+    <a href="https://www.nasa.gov/press/2014/november/nasa-announces-new-opportunities-for-public-participation-in-asteroid-grand" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-space-shuttle"></i>&nbsp;NASA Press Release</a>
+
+#- [Open Source Ecovillages](https://fossforce.com/2017/02/building-open-source-village/)
+#- [SpaceGAMBIT]() - open source space program, partnered with DARPA, NASA, (Obama-era) White House (working on getting website archive up again)
