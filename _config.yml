@@ -2,7 +2,8 @@ title: ACG # Shown in header on pages with full_logo: true
 short_logo: ACG. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Alex C-G's personal website
-url: "https://alexcg1.github.io" # Site base URL
+#url: "https://alexcg1.github.io" # Site base URL
+url: "http://blog.alexcg.net" # Site base URL
 
 author:
   name: Alex C-G
