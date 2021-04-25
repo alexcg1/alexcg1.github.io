@@ -1,19 +1,13 @@
 ---
-title: Open Source: Explained with 1980's Cartoons
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"
-header:
-  caption: "Photo by Alina Grubnyak on Unsplash"
-  image: /images/open_source/sign.jpg
+title: Open Source Explained with 1980's Cartoons
+layout: post
+splash_img_source: /assets/img/open_source/thundercats.png
 sticky: true
 ---
 
-## Introduction: <insert slogan here>
+Note: This turned into [a post on Hackernoon](https://hackernoon.com/open-source-explained-by-1980s-cartoons-fym3uz6). I suggest you read that instead of my half-formed thoughts below!
 
-blah
-
-
+## Introduction
 
 So, I've got an idea in my head (well, where else would it be?) about comparing open source to magic. That still needs a while to brew in my wizard's cauldron, so stay tuned or set a [remembrall](https://harrypotter.fandom.com/wiki/Remembrall) to come back and check some time in the future.
 

@@ -1,6 +1,8 @@
 ---
 title: New Posts on Medium
-tags: blog, medium, meta
+tags: [blog, medium, meta]
+splash_img_source: /assets/img/medium-logo.png
+layout: post
 ---
 
 Just a quick heads-up that the best place to view recent posts is on [Medium](https://medium.com/@alexcg1). Some recent ones:

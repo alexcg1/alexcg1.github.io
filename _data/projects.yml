@@ -1,0 +1,46 @@
+- name: Jina AI
+  id: jina
+  img_src: /assets/img/projects/jina.png
+  description_less: >
+    <p>I'm the Dev Rel Lead at Jina.</p>
+  description_more: >
+    <p>Jina is geared towards building search systems for any kind of data, including text, images, audio, video and many more. With the modular design & multi-layer abstraction, you can leverage the efficient patterns to build the system by parts, or chaining them into a Flow for an end-to-end experience.</p>
+    <a href="https://github.com/jina-ai/jina/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://www.jina.ai" target="_blank" class="btn btn-dark mb-1"><i class="fab fa-chrome"></i> &nbsp Website</a>
+
+  tags: [jina, python, neural_search]
+
+- name: Gödel Escher Bach Resources
+  id: geb
+  description_less: >
+    <p>Readme and Python scripts for reading Gödel Escher Bach</p>
+    <a href="https://github.com/alexcg1/godel_escher_bach" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+
+  tags: [godel_escher_bach, learning, books]
+
+- name: Mediawiki Tools
+  id: mediawiki-tools
+  description_less: >
+    <p>Unembed embedded pages and convert your wiki to a book</p>
+    <a href="https://github.com/alexcg1/mediawiki_unembed" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Mediawiki Unembed</a>
+    <a href="https://github.com/alexcg1/mediawiki2book/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Mediawiki2book</a>
+
+  tags: [mediawiki, python]
+
+- name: Cover Letter Generator
+  tags: [bash, job-hunting, markdown]
+  id: cover-letter
+  description_less: >
+    <p>Quick and dirty bash script to generate pre-populated cover letters from the command line</p>
+    <a href="https://github.com/alexcg1/coverletter" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+
+- name: Easy Text Generator
+  id: easy-text
+  #img_src: /assets/img/projects/mediawiki.png
+  description_less: >
+    AI-powered text generation for mere mortals.
+  description_more: >
+    <p>An app that runs in your web browser and uses a nice GUI interface to generate text from pre-trained machine learning models like GPT-2. It doesn't support training models at the moment.</p>
+    <a href="https://github.com/alexcg1/easy_text_generator" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i>&nbsp;Repository</a>
+
+  tags: [nlp, transformers, streamlit, python]

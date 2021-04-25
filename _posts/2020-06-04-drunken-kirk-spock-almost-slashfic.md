@@ -1,5 +1,9 @@
 ---
 title: "Almost a Slashfic: Kirk and Spock drinking beer"
+layout: post
+splash_img_source: /assets/img/spock.jpg
+splash_img_caption: https://www.flickr.com/photos/jdhancock/8933306274
+tags: [star trek, nlp, transformers]
 ---
 
 Script_buddy has done it again. Kirk and Spock drinking beer and having awkward conversations about airports. You can cut the sexual tension with a knife. It's a perfect [slashfic](https://en.wikipedia.org/wiki/Slash_fiction).
