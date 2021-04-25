@@ -268,3 +268,5 @@ author:
   - label: RSS
     icon: "fab fas fa-rss"
     url: "https://alexcg1.github.io/feed.xml"
+
+theme: jekyll-theme-dinky
