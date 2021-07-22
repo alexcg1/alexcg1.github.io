@@ -9,9 +9,9 @@ layout: post
 
 Hey everybody! Welcome to another episode of let's misuse technology in new and stupid ways! Today we're going to look at how to take an amazing technology like neural search, and misuse it in a way that a rogue user query could delete the contents of your home directory. In short, do not try this at home. At least not the one-liner bit. Using neural search on the other hand is pretty damn cool.
 
-## What is Neural Search?
+## What is neural search?
 
-Neural search is all about smooshing together search technology with deep learning neural networks. In short, the neural networks understand the semantics of what is being searched, so if you search "cat", matches for "kitten", "feline", etc would come up.
+Neural search is all about smooshing together search technology with deep learning neural networks. In short, the neural networks understand the semantics of what is being searched, so if you search "cat", matches for "kitten", "feline", etc would come up. Or "Chairman Meow" for that matter:
 
 ![](/assets/img/one-line/cat1.jpg)
 
@@ -208,6 +208,6 @@ Seriously, don't ever use this method in your code. One-line-ifying everything m
 
 There's only one reason (I can think of) to use this method. And that's for writing clickbait like this. And hopefully it worked!
 
-If you liked reading this (or are fuming about how ripped off you feel), head on over to [Jina's GitHub repo](https://github.com/jina-ai/jina/). I'm their developer relations lead, so not only have I wasted all our time today, but I also have the sheer bloody nerve to try and shove our (rather lovely) product down your throats.
+If you liked reading this (or are fuming about how ripped off you feel), head on over to [Jina's GitHub repo](https://github.com/jina-ai/jina/) and throw a star their way. I'm their developer relations lead, so not only have I wasted all our time today, but I also have the sheer bloody nerve to try and shove our (rather lovely) product down your throats.
 
-So, that's all from me. I'm off to make pull requests to our competitors repos, streamlining all their code into one gloriously long line. Bye for now!
+So, that's all from me. I'm off to make pull requests to our competitors repos, optimizing all their code into one gloriously long line. Bye for now!
