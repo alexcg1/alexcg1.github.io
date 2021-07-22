@@ -38,7 +38,7 @@ Before jumping into the code, we need to understand a few concepts:
 
 ## Build your search engine
 
-First up we'll build the actual search engine. We'll do this in more than one line of code (for the sake of our sanity), then one-line-ify it later. It's still as short and simple as possible, and all fits in one line of Python.
+First up we'll build the actual search engine. We'll do this in more than one line of code (for the sake of our sanity), then one-line-ify it later. It's still as short and simple as possible, clocking in at under 30 lines of code (including comments).
 
 ### Create a virtual environment
 
