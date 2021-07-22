@@ -97,8 +97,6 @@ Add some Executors to the Flow. We'll download these from Jina Hub to save us ha
 - `TransformerTorchEncoder` - encodes each Document into embedding vectors. Words or phrases with similar meanings have similar vectors. You can find out more [here](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture).
 - `SimpleIndexer` - creates an index of Documents and embeddings. Later we will search through this.
 
-We also feed some parameters to `SimpleIndexer` to specify where we'll store the index file.
-
 ```python
 flow = 
     Flow(port_expose=45678, protocol="http") # Set up REST gateway for searching
@@ -109,7 +107,6 @@ flow =
     .add(
         uses="jinahub+docker://SimpleIndexer", # Add an indexer. This creates a searchable index of the encodings and metadata
         name="indexer",
-        uses_with={"index_file_name": "index.json", "dump_path": "workspace"},
     )
 ```
 
