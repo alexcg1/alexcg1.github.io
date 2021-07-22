@@ -206,7 +206,9 @@ That command will spit out the line count:
 1   stupid.py
 ```
 
-Ta-da. There you have it. Neural search in one line of (stupidly dangerous) code. Was this whole thing just about posting a dumb linkbait article? You bet. Was it a bit of a cheat? No. It was a lot of a cheat, but hey `\n` doesn't *technically* create a new line in a file
+And if you run `python stupid.py` you'll get the exact same experience as running `python sensible.py`.
+
+Ta-da. There you have it. Neural search in one line of (stupidly dangerous) code. Was this whole thing just about posting a dumb clickbait article? You bet. Was it a bit of a cheat? No. It was a lot of a cheat, but hey `\n` doesn't *technically* create a new line in a file
 
 Seriously, don't ever use this method in your code. One-line-ifying everything makes things unreadable, screws up syntax highlighting and linting, and would play merry hell with version control systems (because they track changes on a line-by-line basis). Wrapping it all in `exec()` is just the dangerous icing on a towering cake of stupidity.
 
