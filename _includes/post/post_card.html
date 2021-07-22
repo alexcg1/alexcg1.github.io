@@ -13,7 +13,7 @@
                     {% endif %}
                             ">{{ post.title }}</a></b></h4>
                 <p class="post-title__subtitle">Published {{ post.date | date: "%b %e, 20%y" }} {% if post.updated %} (Updated {{ post.updated | date: "%b %e, 20%y" }}) {% endif %} by {% if post.author.name %}{{ post.author.name }}{% else %}{{ site.author.name }}{% endif %}{% if post.pin %} • Pinned ⭐{% endif %}<p>      
-                <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                <p>{{ post.content | strip_html | truncatewords: 45 }}</p>
             </div>
 
             <div class="col-sm-4">
