@@ -7,6 +7,8 @@ layout: post
 
 > If you like this post, be sure to check out my other lifehack: Save a fortune on pedicures (by chopping off your feet with a breadknife)
 
+<!--more-->
+
 Hey everybody! Welcome to another episode of let's misuse technology in new and stupid ways! Today we're going to look at how to take an amazing technology like neural search, and misuse it in a way that a rogue user query could delete the contents of your home directory. In short, do not try this at home. At least not the one-liner bit. Using neural search on the other hand is pretty damn cool.
 
 If you want to skip ahead, you can check out all the code on [my repo](https://github.com/alexcg1/jina-shortest-program).
