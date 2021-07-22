@@ -15,7 +15,7 @@ If you want to skip ahead, you can check out all the code on [my repo](https://g
 
 ## What is neural search?
 
-Neural search is all about smooshing together search technology with deep learning neural networks. In short, the neural networks understand the semantics of what is being searched, so if you search "cat", matches for "kitten", "feline", etc would come up. Or "Chairman Meow" for that matter:
+[Neural search](https://github.com/jina-ai/jina/blob/master/.github/2.0/neural-search.md) is all about smooshing together search technology with deep learning neural networks. In short, the neural networks understand the semantics of what is being searched, so if you search "cat", matches for "kitten", "feline", etc would come up. Or "Chairman Meow" for that matter:
 
 ![](/assets/img/one-line/cat1.jpg)
 
