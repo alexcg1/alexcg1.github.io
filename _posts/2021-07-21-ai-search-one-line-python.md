@@ -9,6 +9,8 @@ layout: post
 
 Hey everybody! Welcome to another episode of let's misuse technology in new and stupid ways! Today we're going to look at how to take an amazing technology like neural search, and misuse it in a way that a rogue user query could delete the contents of your home directory. In short, do not try this at home. At least not the one-liner bit. Using neural search on the other hand is pretty damn cool.
 
+If you want to skip ahead, you can check out all the code on [my repo](https://github.com/alexcg1/jina-shortest-program).
+
 ## What is neural search?
 
 Neural search is all about smooshing together search technology with deep learning neural networks. In short, the neural networks understand the semantics of what is being searched, so if you search "cat", matches for "kitten", "feline", etc would come up. Or "Chairman Meow" for that matter:
@@ -150,7 +152,7 @@ curl --request POST -d '{"top_k":10,"mode":"search","data":["vaccine"]}' -H 'Con
 
 You'll get a ton of JSON back with search results and metadata. The results won't be great in this case, since we're using a tiny toy dataset for the sake of speed. The larger (and richer) the dataset, the better results you'll get.
 
-You can also use a simple frontend like [this one written in Streamlit]().
+You can also use a simple frontend like [this one written in Streamlit](https://share.streamlit.io/alexcg1/jina-shortest-program/frontend.py).
 
 ## Crush it into one line of code
 
