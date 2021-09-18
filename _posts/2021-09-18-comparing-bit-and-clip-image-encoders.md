@@ -31,11 +31,12 @@ In essence, these turn an image file into vector embeddings that a neural networ
     <td>Time to index<br>(via <pre>time python app.py index</pre>)</td>
     <td>3:24</td>
     <td>1:33</td>
-  <tr>
+  </tr>
   <tr>
     <td>Index size<br>(via <pre>du -hs workspace</pre>)</td>
     <td>111 mb</td>
     <td>113 mb</td>
+  </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/input/doge.jpg"></td>
     <td><img src="/assets/img/image-encoders/clip/doge.jpg"></td>
