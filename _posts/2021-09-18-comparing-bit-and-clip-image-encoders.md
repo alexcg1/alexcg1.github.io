@@ -28,13 +28,13 @@ In essence, these turn an image file into vector embeddings that a neural networ
       BigTransfer
     </th>
   </tr>
-  <tr>
-    <td>Time to index<br>(via <pre>time python app.py index</pre>)</td>
+  <tr>http://blog.alexcg.net/2021/09/18/comparing-bit-and-clip-image-encoders.html
+    <td>Time to index<br>(via <code>time python app.py index</code>)</td>
     <td>3:24</td>
     <td>1:33</td>
   </tr>
   <tr>
-    <td>Index size<br>(via <pre>du -hs workspace</pre>)</td>
+    <td>Index size<br>(via <code>du -hs workspace</code>)</td>
     <td>111 mb</td>
     <td>113 mb</td>
   </tr>
