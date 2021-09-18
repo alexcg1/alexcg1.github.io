@@ -78,6 +78,7 @@ flow = (
     <td><img src="/assets/img/image-encoders/inputs/doge.jpg" ></td>
     <td><img src="/assets/img/image-encoders/clip/doge.png"></td>
     <td><img src="/assets/img/image-encoders/bit/doge.png"></td>
+    <td><h2>🤷</h2></td>
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/inputs/xx-everywhere.jpg" ></td>
