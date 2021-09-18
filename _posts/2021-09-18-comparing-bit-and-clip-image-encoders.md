@@ -107,7 +107,7 @@ flow = (
 Not much really. 
 
 - **Accuracy**: Both models perform almost the same in terms of quality, with BigTransfer edging out CLIP when it comes to catching the Sparta meme. 
-- **Performance**: BigTransfer blows CLIP out of the water. 
+- **Performance**: BigTransfer blows CLIP out of the water, taking less than half the time to index the dataset (and remember, that includes the time Jina takes to spin up).
 - **Disk usage**: Not much in it. What's a couple of megs between friends?
 - **Other resource usage:** I didn't measure memory/CPU usage this time round, but in my tests it felt like BigTransfer was a lot lighter. (Every time I used CLIP before my laptop would fall over without a swap file. That wasn't the case with BigTransfer.)
 
