@@ -50,7 +50,7 @@ flow = (
 <tbody>
   <tr>
     <th width>
-      Model
+      Model/query image
     </th>
     <th>
       CLIP
