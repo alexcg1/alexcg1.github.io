@@ -1,6 +1,6 @@
 ---
 title: BigTransfer Encoder vs CLIP Image Encoder
-splash_img_source: /assets/img/one-line/cover.png
+splash_img_source: /assets/img/image-encoders/cover.jpg
 tags: [python, neural search, Jina, deep learning, clip, images]
 layout: post
 ---
