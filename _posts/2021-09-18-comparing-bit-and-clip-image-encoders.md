@@ -16,6 +16,29 @@ In essence, these turn an image file into vector embeddings that a neural networ
 - Size of the index (in megabytes)
 - Quality of search results
 
+The code for testing this is in my [simple Jina search examples repo](https://github.com/alexcg1/simple-jina-examples/tree/main/image_search). All I did was swap out some code to switch models. Full code in the repo, this is just the swapped out bits:
+
+### BigTransfer
+
+```python
+flow = (
+    Flow()
+    .add(
+        uses="jinahub+docker://BigTransferEncoder",
+        uses_with={"model_name": "Imagenet1k/R50x1", "model_path": "model"},
+)
+```
+
+### CLIP
+
+```python
+flow = (
+    Flow()
+    .add(
+        uses="jinahub+docker://CLIPImageEncoder",
+)
+```
+
 <table>
 
 <colgroup>
@@ -78,6 +101,19 @@ In essence, these turn an image file into vector embeddings that a neural networ
   
   
 </table>
+
+## So, what have we learned?
+
+Not much really. 
+
+- **Accuracy**: Both models perform almost the same in terms of quality, with BigTransfer edging out CLIP when it comes to catching the Sparta meme. 
+- **Performance**: BigTransfer blows CLIP out of the water. 
+- **Disk usage**: Not much in it. What's a couple of megs between friends?
+- **Other resource usage:** I didn't measure memory/CPU usage this time round, but in my tests it felt like BigTransfer was a lot lighter. (Every time I used CLIP before my laptop would fall over without a swap file. That wasn't the case with BigTransfer.)
+
+This is just how well they perform on a folder of memes though - and memes with similar templates are very similar to each other (otherwise they wouldn't really be memes, just random photos with some Impact font over the top). The models may perform very differently on a dataset of personal photos where variation would be greater.
+
+Next time maybe I'll test the meme dataset but with by searching variations of the doge meme. There are plenty of variations and I haven't seen any of those in the dataset so far. So whichever model matches more closely with the classic Doge meme would be the winner.
 
 ## Testing notes
 
