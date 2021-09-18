@@ -38,22 +38,22 @@ In essence, these turn an image file into vector embeddings that a neural networ
     <td>113 mb</td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/input/doge.jpg"></td>
-    <td><img src="/assets/img/image-encoders/clip/doge.jpg"></td>
-    <td><img src="/assets/img/image-encoders/bit/doge.jpg"></td>
+    <td><img src="/assets/img/image-encoders/inputs/doge.jpg"></td>
+    <td><img src="/assets/img/image-encoders/clip/doge.png"></td>
+    <td><img src="/assets/img/image-encoders/bit/doge.png"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/input/xx-everywhere.jpg"></td>
+    <td><img src="/assets/img/image-encoders/inputs/xx-everywhere.jpg"></td>
     <td><img src="/assets/img/image-encoders/clip/xx-everywhere.jpg"></td>
     <td><img src="/assets/img/image-encoders/bit/xx-everywhere.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/input/crying-woman.jpg"></td>
+    <td><img src="/assets/img/image-encoders/inputs/crying-woman.jpg"></td>
     <td><img src="/assets/img/image-encoders/clip/crying-woman.jpg"></td>
     <td><img src="/assets/img/image-encoders/bit/crying-woman.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/input/sparta.jpg"></td>
+    <td><img src="/assets/img/image-encoders/inputs/sparta.jpg"></td>
     <td><img src="/assets/img/image-encoders/clip/sparta.jpg"></td>
     <td><img src="/assets/img/image-encoders/bit/sparta.jpg"></td>
   </tr>
