@@ -28,6 +28,7 @@ In essence, these turn an image file into vector embeddings that a neural networ
       BigTransfer
     </th>
   </tr>
+  <tr>
     <td>Time to index<br>(via <pre>time python app.py index</pre>)</td>
     <td>3:24</td>
     <td>1:33</td>
