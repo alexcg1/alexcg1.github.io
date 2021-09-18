@@ -44,24 +44,24 @@ In essence, these turn an image file into vector embeddings that a neural networ
     <td>Too close to call</td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/inputs/doge.jpg" style="width: auto; height: 256px"></td>
+    <td><img src="/assets/img/image-encoders/inputs/doge.jpg" style="height: auto; width: auto; max-width: 256px; max-height: 256px"></td>
     <td><img src="/assets/img/image-encoders/clip/doge.png"></td>
     <td><img src="/assets/img/image-encoders/bit/doge.png"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/inputs/xx-everywhere.jpg" style="width: auto; height: 256px"></td>
+    <td><img src="/assets/img/image-encoders/inputs/xx-everywhere.jpg" style="height: auto; width: auto; max-width: 256px; max-height: 256px"></td>
     <td><img src="/assets/img/image-encoders/clip/xx-everywhere.png"></td>
     <td><img src="/assets/img/image-encoders/bit/xx-everywhere.png"></td>
     <td><h2>🤷</h2></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/inputs/crying-woman.jpg" style="width: auto; height: 256px"></td>
+    <td><img src="/assets/img/image-encoders/inputs/crying-woman.jpg" style="height: auto; width: auto; max-width: 256px; max-height: 256px"></td>
     <td><img src="/assets/img/image-encoders/clip/crying-woman.png"></td>
     <td><img src="/assets/img/image-encoders/bit/crying-woman.png"></td>
     <td><h2>🤷</h2></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/inputs/sparta.jpg" style="width: auto; height: 256px"></td>
+    <td><img src="/assets/img/image-encoders/inputs/sparta.jpg" style="height: auto; width: auto; max-width: 256px; max-height: 256px"></td>
     <td><img src="/assets/img/image-encoders/clip/sparta.png"></td>
     <td><img src="/assets/img/image-encoders/bit/sparta.png"></td>
     <td>BigTransfer</td>
