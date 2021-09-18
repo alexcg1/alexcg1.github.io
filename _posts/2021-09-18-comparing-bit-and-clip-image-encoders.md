@@ -27,6 +27,9 @@ In essence, these turn an image file into vector embeddings that a neural networ
     <th>
       BigTransfer
     </th>
+    <th>
+      Winner
+    </th>
   </tr>
   <tr>
     <td>Time to index<br>(via <code>time python app.py index</code>)</td>
@@ -37,6 +40,7 @@ In essence, these turn an image file into vector embeddings that a neural networ
     <td>Index size<br>(via <code>du -hs workspace</code>)</td>
     <td>111 mb</td>
     <td>113 mb</td>
+    <td><h3>🤷</h3></td>
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/inputs/doge.jpg" style="height: 256px"></td>
