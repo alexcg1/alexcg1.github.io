@@ -28,7 +28,7 @@ In essence, these turn an image file into vector embeddings that a neural networ
       BigTransfer
     </th>
   </tr>
-  <tr>http://blog.alexcg.net/2021/09/18/comparing-bit-and-clip-image-encoders.html
+  <tr>
     <td>Time to index<br>(via <code>time python app.py index</code>)</td>
     <td>3:24</td>
     <td>1:33</td>
@@ -45,18 +45,18 @@ In essence, these turn an image file into vector embeddings that a neural networ
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/inputs/xx-everywhere.jpg"></td>
-    <td><img src="/assets/img/image-encoders/clip/xx-everywhere.jpg"></td>
-    <td><img src="/assets/img/image-encoders/bit/xx-everywhere.jpg"></td>
+    <td><img src="/assets/img/image-encoders/clip/xx-everywhere.png"></td>
+    <td><img src="/assets/img/image-encoders/bit/xx-everywhere.png"></td>
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/inputs/crying-woman.jpg"></td>
-    <td><img src="/assets/img/image-encoders/clip/crying-woman.jpg"></td>
-    <td><img src="/assets/img/image-encoders/bit/crying-woman.jpg"></td>
+    <td><img src="/assets/img/image-encoders/clip/crying-woman.png"></td>
+    <td><img src="/assets/img/image-encoders/bit/crying-woman.png"></td>
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/inputs/sparta.jpg"></td>
-    <td><img src="/assets/img/image-encoders/clip/sparta.jpg"></td>
-    <td><img src="/assets/img/image-encoders/bit/sparta.jpg"></td>
+    <td><img src="/assets/img/image-encoders/clip/sparta.png"></td>
+    <td><img src="/assets/img/image-encoders/bit/sparta.png"></td>
   </tr>
   
   
