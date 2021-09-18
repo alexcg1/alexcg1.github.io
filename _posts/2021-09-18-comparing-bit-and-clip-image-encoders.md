@@ -10,7 +10,7 @@ I've been mucking around with building a [meme search engine](https://examples.j
 - Big Transfer encoder from Google
 - CLIP image encoder
 
-In essence, these turn an image file into vector embeddings that a neural network can understand. Which one is best (at least for memes)? Let's put them to the test. We'll index 10,000 memes and compare:
+In essence, these use a neural network to turn an image file into vector embeddings that can be compared for a similarity ("nearest neighbor") search. Which one is best (at least for memes)? Let's put them to the test. We'll index 10,000 memes and compare:
 
 - Time it takes to index (in minutes) (note: this covers the running time of the whole Jina process, not just encoding)
 - Size of the index (in megabytes)
