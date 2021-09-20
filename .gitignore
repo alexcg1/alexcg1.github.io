@@ -1,7 +1,6 @@
 _site
 old/
 .travis.yml
-Gemfile
 Gemfile.lock
 Rakefile
 _data/ui-text.yml

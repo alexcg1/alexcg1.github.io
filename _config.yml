@@ -50,5 +50,11 @@ compress_html:
   profile: false
   startings: [html, head, body]
 
+plugins:
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/posts/page/page:num/"
+
 rss: true # RSS feed icon on or off
 excerpt_separator: <!--more-->
