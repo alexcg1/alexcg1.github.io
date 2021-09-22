@@ -134,5 +134,6 @@ So assuming the transitive property, "Captain Picard" == "Doctor Evil" == "Kermi
     <td><img src="/assets/img/image-encoders-3/output/kermit.png" ></td>
     <td><img src="https://i.imgflip.com/1edh1k.jpg"></td>
   </tr>
+  </tbody>
 </table> 
 
