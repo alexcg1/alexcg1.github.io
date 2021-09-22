@@ -38,11 +38,11 @@ As far as I know this meme isn't in the [dataset we're using](https://www.kaggle
     </th>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/inputs/doge.jpg" ></td>
-    <td><img src="/assets/img/image-encoders-part-2/clip/doge.png"></td>
+    <td><img src="/assets/img/image-encoders/input/doge.jpg" ></td>
+    <td><img src="/assets/img/image-encoders-2/clip/doge.png"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders-2/inputs/buff-doge.jpg" ></td>
+    <td><img src="/assets/img/image-encoders-2/input/buff-doge.jpg" ></td>
     <td><img src="/assets/img/image-encoders-2/clip/buff-doge.png" ></td>
   </tr>
 </tbody>
@@ -68,11 +68,11 @@ As far as I know this meme isn't in the [dataset we're using](https://www.kaggle
     </th>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders/inputs/doge.jpg" ></td>
+    <td><img src="/assets/img/image-encoders/input/doge.jpg" ></td>
     <td><img src="/assets/img/image-encoders-part-2/bit/doge.png"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/image-encoders-2/inputs/buff-doge.jpg" ></td>
+    <td><img src="/assets/img/image-encoders-2/input/buff-doge.jpg" ></td>
     <td><img src="/assets/img/image-encoders-2/bit/buff-doge.png" ></td>
   </tr>
 </tbody>
