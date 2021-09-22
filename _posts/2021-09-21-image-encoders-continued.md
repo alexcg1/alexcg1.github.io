@@ -69,7 +69,7 @@ As far as I know this meme isn't in the [dataset we're using](https://www.kaggle
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders/inputs/doge.jpg" ></td>
-    <td><img src="/assets/img/image-encoders-part-2/bit/doge.png"></td>
+    <td><img src="/assets/img/image-encoders-2/bit/doge.png"></td>
   </tr>
   <tr>
     <td><img src="/assets/img/image-encoders-2/input/buff-doge.jpg" ></td>
