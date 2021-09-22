@@ -80,6 +80,16 @@ As far as I know this meme isn't in the [dataset we're using](https://www.kaggle
   
 </table>
 
-Oddly, BigTransfer surfaced this as the fifth result, so maaaybe it's recognizing something? Or maybe just a fluke.
+Oddly, BigTransfer surfaced this as the fifth result, so maaaybe it's recognizing something like the dogs? Or maybe just a fluke.
 
-![](http://examples.jina.ai/memes/media/aa09080eb06b048f7f0e0c054b19be63c4e319085914a25286d145e4.jpeg)
+![](/assets/img/image-encoders-2/bit/result-5.jpg)
+
+## So, was I right?
+
+Nope, off by a long shot. Perhaps there's something weird going on with CLIP's feature detection. Either way, that's two for two for BigTransfer when it comes to searching memes. Though it might've just got lucky hitting that fifth image.
+
+In short, both encoders suck for this kind of thing, at least out of the box.
+
+## What's next?
+
+I'm exhausted with memes for now. But if anyone has any ideas for what to try next (and preferably wants to take part!) ping me on Twitter at [@alexcg](https://twitter.com/alexcg).
