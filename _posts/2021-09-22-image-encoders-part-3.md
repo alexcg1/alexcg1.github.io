@@ -137,3 +137,6 @@ So assuming the transitive property, "Captain Picard" == "Doctor Evil" == "Kermi
   </tbody>
 </table> 
 
+## What have we learned today, children?
+
+Christ knows. My head hurts. If CLIP had a head it might hurt too. I think looking at too many memes has damaged both of us. Quick conclusion: CLIP is good, bad, and downright confusing. Note it down in your copybooks. I need a beer and a re-evaluation of my life choices.
