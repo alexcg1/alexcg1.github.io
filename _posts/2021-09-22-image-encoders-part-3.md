@@ -95,7 +95,7 @@ No close matches whatsoever. Totally failed on all fronts. I mean I guess the "r
 
 ## The Bloody Unexpected
 
-So assuming the transitive property, "Captain Picard" == "Doctor Evil" == "Kermit the Frog" == "Yoda". I'm baffled by this. I ran the tests several times to make sure I wasn't saving the output images from a previous search under the wrong name. But nope. This is really what came out. CLIP is discovering whole new connections in it's vector index, and possibly forming some demented meaning of life.
+So assuming the transitive property, "Captain Picard" == "Doctor Evil" == "Kermit the Frog" == "Yoda". I'm baffled by this. I ran the tests several times to make sure I wasn't saving the output images from a previous search under the wrong name. But nope. This is really what came out. CLIP is discovering whole new connections in its vector index, and possibly forming some warped meaning of life.
 
 <table>
 
