@@ -13,4 +13,5 @@ screenshot.png
 staticman.yml
 test/
 bundle
+.jekyll-cache
 vendor
