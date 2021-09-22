@@ -1,5 +1,5 @@
 ---
-title: Image Encoders Part Deux: Let's ramp things up
+title: "Image Encoders Part Deux: Let's ramp things up"
 splash_img_source: /assets/img/image-encoders-2/cover.jpg
 tags: [python, neural search, Jina, deep learning, clip, images]
 layout: post
