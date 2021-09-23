@@ -38,12 +38,12 @@ These concepts are reflected in Jina's design pattern:
 
 - A [Document](https://docs.jina.ai/fundamentals/document/) is just like a file on your filesystem.
 - An [Executor](https://docs.jina.ai/fundamentals/executor/) is a command. Just as `grep` is a tool that does one thing and does it well, so too are [`TransformerTorchEncoder`](https://hub.jina.ai/executor/u9pqs8eb), [`CLIPImageEncoder`](https://hub.jina.ai/executor/0hnlmu3q), [`SimpleIndexer`](https://hub.jina.ai/executor/zb38xlt4), etc.
-- A [Flow](https://docs.jina.ai/fundamentals/flow/) pipes the output of one command to another via `Flow().add(CLIPImageEncoder).add(SimpleIndexer)`.
+- A [Flow](https://docs.jina.ai/fundamentals/flow/) pipes the output of one command to another via `.add()`: `Flow().add(CLIPImageEncoder).add(SimpleIndexer)`.
 - [Hub](https://hub.jina.ai) is like a package manager. Instead of having to *write* `TransformerTorchEncoder` yourself, you simply download (or pull) it: `Flow().add("jinahub+docker://CLIPImageEncoder")`.
 
 ## An example
 
-Let's say I'm a hopeless romantic (you know I am). If I were going to index every one of Shakespeare's lines that said "love" you'd do it like this in bash:
+Let's say I'm a hopeless romantic (you know I am). If I were going to index every one of Shakespeare's lines that said "love" I'd do it like this in bash:
 
 <span style="font-size: 80%">I mean I have them all memorized, but y'know</span>
 
@@ -89,7 +89,7 @@ I skipped the imports and maybe a few bits of config you may want to add, but yo
 ## What's the difference then?
 
 - `grep` would miss any mention of `loving`, `romance`, `heart`, etc. `TransformerTorchEncoder` would see the connection.
-- Jina can search *any* kind of data, not just text streams. PDFs, [amino acids](https://github.com/georgeamccarthy/protein_search), [memes](http://examples.jina.ai/memes), you name it.
+- Jina can search *any* kind of data, not just text streams. PDFs, [amino acids](https://github.com/georgeamccarthy/protein_search), [memes](http://examples.jina.ai/memes), you name it. I could index frames of *Titanic* and get back pictures of Jack and Rose.
 - Jina means writing more lines of code, at least for a simple thing like our example. But for real-world use-cases where you want scaling, client-server architecture, containerization, etc et bloody cetera, Jina's your jam.
 
 ## `yy` and `pp`
