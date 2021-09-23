@@ -1,6 +1,6 @@
 ---
 title: "Grok the Linux shell, grok Jina"
-splash_img_source: /assets/img/image-encoders-3/cover.jpg
+splash_img_source: /assets/img/jina-is-bash/cover.png
 tags: [python, neural search, Jina, deep learning, Linux, bash, shell]
 layout: post
 ---
