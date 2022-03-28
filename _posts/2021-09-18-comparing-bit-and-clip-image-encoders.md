@@ -16,8 +16,6 @@ In essence, these use a neural network to turn an image file into vector embeddi
 - Size of the index (in megabytes)
 - Quality of search results
 
-The code for testing this is in my [simple Jina search examples repo](https://github.com/alexcg1/simple-jina-examples/tree/main/image_search). All I did was swap out some code to switch models. Full code in the repo, this is just the swapped out bits:
-
 ### BigTransfer
 
 ```python
