@@ -12,6 +12,7 @@ author:
   homepage: https://alexcg1.github.io # This links to your name in post meta
   twitter: alexcg # Twitter username, used for Twitter Card Analytics 
   youtube: https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF
+  mastodon: https://chaos.social/@alexcg
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
