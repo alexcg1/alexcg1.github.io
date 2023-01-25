@@ -2,14 +2,14 @@ title: ACG # Shown in header on pages with full_logo: true
 short_logo: ACG # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Alex C-G's personal website
-url: "https://blog.alexcg.net" # Site base URL
+url: "https://alexcg1.github.io" # Site base URL
 
 author:
   name: Alex C-G
   github: alexcg1 # GitHub username, used for GitHub icon on the top right
   linkedin: alexcg # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   #email: example@example.com # Used for email icon on the top right
-  homepage: https://blog.alexcg.net # This links to your name in post meta
+  homepage: https://alexcg1.github.io # This links to your name in post meta
   twitter: alexcg # Twitter username, used for Twitter Card Analytics 
   youtube: https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF
   mastodon: https://chaos.social/@alexcg
