@@ -67,6 +67,8 @@ First up, some of my work I can do in existing Android apps. I'm crazy and masoc
 
 #### Samsung DeX
 
+![](images/tablet-linux-dex.jpg)
+
 Not strictly "stock" Android, but it's part of the Samsung tablet experience. It gives me a much more desktop feel, and setting it to autohide the taskbar gives me a decent amount of screen space. It's a shame the window titlebars are so massive. I'd love something like the Gnome [Unite extension] but given DeX's limited options that's not on the table. It's a decent enough desktop environment given my options.
 
 (And yes, those options include running X11 and VNCing into a "real" desktop environment. Keep reading)
