@@ -7,7 +7,7 @@ tags: "linux, android, tablet, samsung, open-source"
 
 This post isn't yet finished. Stuff is missing (most links) and I haven't yet gone into the meat of the Linux setup. However, I'd rather share a work in progress than have this in my drafts and never finish it. So, here it is - I'll likely finish it up in the next few days, but let's see.
 
---
+---
 
 I recently bought a [Samsung Galaxy S6 Lite]() with the intention of building it into a super lightweight Linux box for actual work. I'll chronicle the ups and downs in this post.
 
