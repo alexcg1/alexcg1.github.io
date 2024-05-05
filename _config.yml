@@ -14,7 +14,8 @@ author:
   youtube: https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF
   mastodon: https://chaos.social/@alexcg
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
 markdown: kramdown
 
 defaults: # Recommended defaults, you may set your own
