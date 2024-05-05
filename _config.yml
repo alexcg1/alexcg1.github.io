@@ -53,4 +53,5 @@ rss: true # RSS feed icon on or off
 excerpt_separator: <!--more-->
 
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-seo-tag
