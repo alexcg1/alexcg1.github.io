@@ -12,8 +12,6 @@ tags:
   - apps
 ---
 
-# Open Source Android Apps I Use
-
 I use a bunch of open source Android apps as my daily drivers. Since they quite often come up in conversation, I'm making a list here. Note that I didn't want to manually dig out the URL for every single app, so I relied a bit on GPT to find links, write descriptions. If anything seems off, I recommend you search for the app directly.
 
 ## App Stores
@@ -198,7 +196,6 @@ Librera is a highly customizable document reader for Android with support for ma
 
 - [Download on F-Droid](<https://f-droid.org/packages/com.foobnix.proIt> looks like the markdown was cut off. Here's the continuation with correct URLs for the remaining apps:
 
-```markdown
 Librera is a highly customizable document reader for Android with support for many file formats like PDF, EPUB, MOBI, and more.
 
 - [Download on F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)
@@ -337,4 +334,7 @@ SuperImage is an AI-powered app that allows you to upscale images locally withou
 Breezy Weather is an open-source weather app with a clean UI and real-time weather data.
 
 - [Download on F-Droid](https://f-droid.org/de/packages/org.breezyweather/)
+
+```
+
 ```
