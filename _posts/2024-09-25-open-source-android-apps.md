@@ -194,10 +194,6 @@ Bubble2 is an open-source comic book reader with support for CBR/CBZ files.
 
 Librera is a highly customizable document reader for Android with support for many file formats like PDF, EPUB, MOBI, and more.
 
-- [Download on F-Droid](<https://f-droid.org/packages/com.foobnix.proIt> looks like the markdown was cut off. Here's the continuation with correct URLs for the remaining apps:
-
-Librera is a highly customizable document reader for Android with support for many file formats like PDF, EPUB, MOBI, and more.
-
 - [Download on F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)
 - [Download on Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader)
 
