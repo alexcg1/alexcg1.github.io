@@ -25,7 +25,8 @@ To install these apps, I recommend [F-Droid app store](https://f-droid.org/), wh
 
 PersonalDNSFilter is a DNS-based web filter for Android that blocks domains for unwanted content (like ads or tracking) by modifying DNS responses.
 
-- ![Download on F-Droid](/assets/img/android-apps/f-droid-button.png)(<https://f-droid.org/packages/dnsfilter.android/>)
+![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)(<https://f-droid.org/packages/dnsfilter.android/>)
+
 - [Download on F-Droid](https://f-droid.org/packages/dnsfilter.android/)
 - [Download on Google Play](https://play.google.com/store/apps/details?id=dnsfilter.android)
 
