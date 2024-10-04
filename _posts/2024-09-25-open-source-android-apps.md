@@ -330,7 +330,3 @@ SuperImage is an AI-powered app that allows you to upscale images locally withou
 Breezy Weather is an open-source weather app with a clean UI and real-time weather data.
 
 - [Download on F-Droid](https://f-droid.org/de/packages/org.breezyweather/)
-
-```
-
-```
