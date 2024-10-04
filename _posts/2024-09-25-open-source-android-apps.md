@@ -25,14 +25,24 @@ To install these apps, I recommend [F-Droid app store](https://f-droid.org/), wh
 
 PersonalDNSFilter is a DNS-based web filter for Android that blocks domains for unwanted content (like ads or tracking) by modifying DNS responses.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/dnsfilter.android/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=dnsfilter.android)
+<p align="left">
+  <a href="https://f-droid.org/packages/dnsfilter.android/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=dnsfilter.android">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [NewPipe](https://newpipe.net/)
 
 NewPipe is a lightweight YouTube frontend that provides an ad-free experience, background playback, and video downloading.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.schabi.newpipe/)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.schabi.newpipe/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [InnerTube](https://lighttube-org.github.io/InnerTube/index.html)
 
@@ -46,35 +56,63 @@ InnerTube provides a lightweight, privacy-friendly interface for YouTube with fe
 
 NextCloud Sync allows you to keep your files synchronized with your own NextCloud server.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.nextcloud.client/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=com.nextcloud.client)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.nextcloud.client/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.nextcloud.client">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [NextCloud Tasks](https://github.com/nextcloud/tasks)
 
 A NextCloud-compatible task manager app that integrates with the tasks app on your server, allowing you to manage tasks across devices.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.dmfs.tasks/)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.dmfs.tasks/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [NextCloud Notes](https://github.com/stefan-niedermann/nextcloud-notes)
 
 Keep and manage notes directly synchronized with your NextCloud server.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/it.niedermann.owncloud.notes/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=it.niedermann.owncloud.notes)
+<p align="left">
+  <a href="https://f-droid.org/packages/it.niedermann.owncloud.notes/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=it.niedermann.owncloud.notes">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [DAVx⁵](https://www.davx5.com/)
 
 DAVx⁵ is an open-source solution to sync your calendars, contacts, and tasks with your own CalDAV/CardDAV server.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/at.bitfire.davdroid/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)
+<p align="left">
+  <a href="https://f-droid.org/packages/at.bitfire.davdroid/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=at.bitfire.davdroid">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Aegis (2FA)](https://getaegis.app/)
 
 Aegis is a free, secure, and open-source app for managing your two-factor authentication tokens.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.beemdevelopment.aegis/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.beemdevelopment.aegis/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ## News and Stuff
 
@@ -82,20 +120,34 @@ Aegis is a free, secure, and open-source app for managing your two-factor authen
 
 Feeder is a no-nonsense RSS feed reader app with a clean interface.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.nononsenseapps.feeder/)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.nononsenseapps.feeder/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [RedReader (for Reddit)](https://github.com/QuantumBadger/RedReader)
 
 RedReader is a free and open-source Reddit client for Android with no ads and support for multi-account and offline reading.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.quantumbadger.redreader/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.quantumbadger.redreader/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=org.quantumbadger.redreader">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Materialistic (for Hacker News)](https://github.com/hidroh/materialistic)
 
 Materialistic is a simple Hacker News reader with a material design interface.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/io.github.hidroh.materialistic/)
+<p align="left">
+  <a href="https://f-droid.org/packages/io.github.hidroh.materialistic/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ## Music, Audio, Video
 
@@ -103,34 +155,60 @@ Materialistic is a simple Hacker News reader with a material design interface.
 
 AntennaPod is a podcast manager and player with offline support, OPML import/export, and variable playback speeds.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/de.danoeh.antennapod/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+<p align="left">
+  <a href="https://f-droid.org/packages/de.danoeh.antennapod/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Music Player](https://www.fossify.org/)
 
 Open-source and Ad-free Music Player with customizable widget & sleep timer
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.fossify.musicplayer/)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.fossify.musicplayer/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Voice (audiobook player)](https://github.com/PaulWoitaschek/Voice)
 
 Voice is an audiobook player with bookmarks, playback speed control, and sleep timers.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/de.ph1b.audiobook/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook)
+<p align="left">
+  <a href="https://f-droid.org/packages/de.ph1b.audiobook/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=de.ph1b.audiobook">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Transistor (radio streams)](https://github.com/y20k/transistor)
 
 Transistor is a lightweight radio streaming app that allows you to store and manage your favorite stations easily.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.y20k.transistor/)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.y20k.transistor/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [VLC](https://www.videolan.org/vlc/)
 
 VLC is a free and open-source cross-platform multimedia player that plays most multimedia files, as well as discs, devices, and network streaming protocols.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.videolan.vlc/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.videolan.vlc/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ## Social Media
 
@@ -138,22 +216,40 @@ VLC is a free and open-source cross-platform multimedia player that plays most m
 
 Tusky is a lightweight client for Mastodon with all the essential features to browse your timeline, post statuses, and more.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.keylesspalace.tusky/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.keylesspalace.tusky/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.keylesspalace.tusky">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [SlimSocial (for Facebook)](https://github.com/rignaneseleo/SlimSocial-for-Facebook)
 
 SlimSocial is a lightweight, open-source wrapper for Facebook, designed to take up fewer resources and be privacy-friendly.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/it.rignanese.leo.slimfacebook/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook)
+<p align="left">
+  <a href="https://f-droid.org/packages/it.rignanese.leo.slimfacebook/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Element (Matrix client)](https://element.io/)
 
 Element is a secure messaging app for decentralized communication using the Matrix protocol.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/im.vector.app/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=im.vector.app)
+<p align="left">
+  <a href="https://f-droid.org/packages/im.vector.app/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=im.vector.app">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ## Fun and Games
 
@@ -161,21 +257,37 @@ Element is a secure messaging app for decentralized communication using the Matr
 
 A collection of more than 40 single-player logic puzzles.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
+<p align="left">
+  <a href="https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Forky (crosswords)](https://github.com/yourealwaysbe/forkyz)
 
 Forky is a crossword puzzle game that offers free and open-source puzzles.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyz/)
+<p align="left">
+  <a href="https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyz/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Dolphin (GameCube/Wii/Wii U emulator)](https://dolphin-emu.org/)
 
 Dolphin is a highly efficient emulator for GameCube, Wii, and Wii U games.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.dolphinemu.dolphinemu/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.dolphinemu.dolphinemu/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [MelonDS (Nintendo DS Emulator)](https://github.com/melonDS-emu/melonDS)
 
@@ -195,8 +307,14 @@ Bubble2 is an open-source comic book reader with support for CBR/CBZ files.
 
 Librera is a highly customizable document reader for Android with support for many file formats like PDF, EPUB, MOBI, and more.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.foobnix.pro.pdf.reader/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ## Utilities
 
@@ -204,46 +322,80 @@ Librera is a highly customizable document reader for Android with support for ma
 
 Amaze is a lightweight, open-source file manager for Android with a minimal design and support for basic file operations.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.amaze.filemanager/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.amaze.filemanager/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.amaze.filemanager">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [ConnectBot](https://connectbot.org/) (for opening the door at [Xhain](add link here))
 
 ConnectBot is a simple, powerful SSH client for Android that lets you securely access remote servers.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.connectbot/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=org.connectbot)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.connectbot/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=org.connectbot">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Shelter](https://github.com/PeterCxy/Shelter) (for isolating work apps)
 
 Shelter is an app that helps you isolate apps for work or privacy by creating a separate user profile on Android.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/net.typeblog.shelter/)
+<p align="left">
+  <a href="https://f-droid.org/packages/net.typeblog.shelter/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 
 An open-source archive extractor that supports various formats.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.wirelessalien.zipxtract/)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.wirelessalien.zipxtract/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Wormhole File Transfer](https://github.com/pavelsof/mobile-wormhole)
 
 Wormhole lets you securely send files across devices using end-to-end encryption.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.pavelsof.wormhole/)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.pavelsof.wormhole/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Muzei](https://muzei.co/) (wallpaper manager)
 
 Muzei is a live wallpaper app that refreshes your home screen with famous artworks or your personal photos.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/net.nurik.roman.muzei/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)
+<p align="left">
+  <a href="https://f-droid.org/packages/net.nurik.roman.muzei/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.muzei">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [Syncthing](https://syncthing.net/)
 
 Syncthing is an open-source file synchronization tool that syncs files between devices securely and privately.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.nutomic.syncthingandroid/)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.nutomic.syncthingandroid/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ## Out and About
 
@@ -251,38 +403,64 @@ Syncthing is an open-source file synchronization tool that syncs files between d
 
 Organic Maps is a privacy-focused maps and navigation app, based on OpenStreetMap data, that works offline.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/app.organicmaps/)
-[![Download on Google Play](/assets/img/android-apps/google-play-button.png)](https://play.google.com/store/apps/details?id=app.organicmaps)
+<p align="left">
+  <a href="https://f-droid.org/packages/app.organicmaps/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=app.organicmaps">
+    <img src="/assets/img/android-apps/google-play-button.png" alt="Download on Google Play" width="150">
+  </a>
+</p>
 
 ### [StreetComplete](https://streetcomplete.app/)
 
 StreetComplete is an open-source app that allows you to contribute to OpenStreetMap by answering questions about your surroundings.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/de.westnordost.streetcomplete/)
+<p align="left">
+  <a href="https://f-droid.org/packages/de.westnordost.streetcomplete/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [OpenTracks](https://opentracksapp.com/)
 
 OpenTracks is a GPS tracking app that lets you record and analyze outdoor activities like walking, running, and cycling.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/de.dennisguse.opentracks/)
+<p align="left">
+  <a href="https://f-droid.org/packages/de.dennisguse.opentracks/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Sky Map](https://github.com/sky-map-team/stardroid)
 
 Sky Map is an open-source stargazing app that turns your phone into a planetarium.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.google.android.stardroid/)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.google.android.stardroid/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
 
 Trail Sense is an app designed for outdoor adventures that includes features like a compass, offline maps, and weather forecasting.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/com.kylecorry.trail_sense/)
+<p align="left">
+  <a href="https://f-droid.org/packages/com.kylecorry.trail_sense/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Pedometer](https://secuso.aifb.kit.edu/english/Pedometer.php)
 
 A privacy-friendly pedometer that tracks steps with no data collection.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.secuso.privacyfriendlyactivitytracker/)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.secuso.privacyfriendlyactivitytracker/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ## Other
 
@@ -290,7 +468,11 @@ A privacy-friendly pedometer that tracks steps with no data collection.
 
 A lightweight, open-source gallery app with basic functionality and a clean design.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/org.fossify.gallery/)
+<p align="left">
+  <a href="https://f-droid.org/packages/org.fossify.gallery/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [Habit Builder](https://github.com/ofalvai/HabitBuilder)
 
@@ -302,7 +484,11 @@ Habit Builder is a simple, open-source app for tracking your habits and goals.
 
 A simple and open-source currency converter app.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/packages/de.salomax.currencies/)
+<p align="left">
+  <a href="https://f-droid.org/packages/de.salomax.currencies/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ## Graphics
 
@@ -316,7 +502,11 @@ Canvass is an open-source drawing app for quick doodling and sketching.
 
 An open-source image processing app that offers features like cropping, rotating, and applying filters.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/de/packages/ru.tech.imageresizershrinker/)
+<p align="left">
+  <a href="https://f-droid.org/de/packages/ru.tech.imageresizershrinker/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
 
 ### [SuperImage (on-device upscaling)](https://github.com/Lucchetto/SuperImage)
 
@@ -330,4 +520,8 @@ SuperImage is an AI-powered app that allows you to upscale images locally withou
 
 Breezy Weather is an open-source weather app with a clean UI and real-time weather data.
 
-[![Download on F-Droid](/assets/img/android-apps/f-droid-button.jpg)](https://f-droid.org/de/packages/org.breezyweather/)
+<p align="left">
+  <a href="https://f-droid.org/de/packages/org.breezyweather/">
+    <img src="/assets/img/android-apps/f-droid-button.jpg" alt="Download on F-Droid" width="150">
+  </a>
+</p>
