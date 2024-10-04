@@ -1,18 +1,17 @@
 title: ACG # Shown in header on pages with full_logo: true
 short_logo: ACG # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  Alex C-G's personal website
+  Alex C-G's blog
 url: "https://alexcg1.github.io" # Site base URL
-
 author:
   name: Alex C-G
   github: alexcg1 # GitHub username, used for GitHub icon on the top right
   linkedin: alexcg # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   #email: example@example.com # Used for email icon on the top right
   homepage: https://alexcg1.github.io # This links to your name in post meta
-  twitter: alexcg # Twitter username, used for Twitter Card Analytics 
-  youtube: https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF
-  mastodon: https://chaos.social/@alexcg
+  #twitter: alexcg # Twitter username, used for Twitter Card Analytics
+  #youtube: https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF
+  #mastodon: https://chaos.social/@alexcg
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
@@ -20,20 +19,17 @@ g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will
 markdown: kramdown
 
 defaults: # Recommended defaults, you may set your own
-  -
-    scope:
+  - scope:
       path: _posts
     values:
       comments: false
-  -
-    scope:
+  - scope:
       path: pages/redirects
     values:
       layout: redirect
       index: false
       listed: false
-  -
-    scope:
+  - scope:
       path: pages/tags
     values:
       layout: tag
