@@ -4,6 +4,7 @@ date: 2024-10-04
 layout: post
 author: Alex C-G
 permalink: /open-source-android
+splash_img_source: /assets/img/android-apps/banner.png
 categories:
   - android
   - apps
