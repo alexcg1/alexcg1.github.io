@@ -60,7 +60,7 @@ I'm keeping these brief, since installation methods may vary based on your Linux
 
 ## Appendix: What I tried before
 
-- **Installing via [Bottles](https://usebottles.com/) (a Wine wrapper)**: Honestly I can't remember what failed on this try. I _think_ it installed okay, but didn't start up.
+- Installing via [Bottles](https://usebottles.com/) (a Wine wrapper): Honestly I can't remember what failed on this try. I _think_ it installed okay, but didn't start up.
 - Installing from [Autodesk-Fusion-360-for-Linux repo](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux/): At first the installer claimed I didn't have enough disk space. Installing [bc](https://www.gnu.org/software/bc/) via my distribution's package manager fixed that. Fusion ran after installation, but failed when trying to validate my login, I guess due to my Linux browser not being able to redirect back to a Windows app. Installing Windows Firefox in the same `WINEPREFIX` didn't work either.
 - Installing from the [fusion360 snap](https://github.com/Thermionix/fusion360): Same situation as the Autodesk-Fusion-360-for-Linux repo. Additionally I had to restart after installing Snap and manually enable it from `systemctl`.
 - Installing on [VirtualBox](https://www.virtualbox.org/): Install worked fine, it started and redirected me to my browser to login. It successfully redirected my back to the app, but then hung when it was getting my user data. It said something in Task Manager about it waiting on the network. Fiddling with network settings didn't fix it.
