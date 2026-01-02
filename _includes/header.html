@@ -7,9 +7,11 @@
     {% endif %}
     <ul class="menu">
       <li class="menu__entry"><a href="{{ site.url }}">Home</a></li>
-      <!--<li class="menu__entry"><a href="{{ site.url }}/bio">Bio</a></li>-->
+      <li class="menu__entry">
+        <a href="{{ site.url }}/butterfly/faq">Butterfly project</a>
+      </li>
       <!--<li class="menu__entry">-->
-        <!--<a href="{{ site.url }}/projects">Stuff I'm involved with</a>-->
+      <!--<a href="{{ site.url }}/projects">Stuff I'm involved with</a>-->
       <!--</li>-->
       <!--<li class="menu__entry"><a href="{{ site.url }}/posts">posts</a></li>-->
     </ul>
@@ -23,8 +25,7 @@
     >
       <i class="fas fa-envelope-square"></i>
     </a>
-    {% endif %}
-    {% if site.author.github %}
+    {% endif %} {% if site.author.github %}
     <a
       href="https://github.com/{{ site.author.github }}"
       class="social-links__entry"
@@ -32,8 +33,7 @@
     >
       <i class="fab fa-github"></i>
     </a>
-    {% endif %}
-    {% if site.author.mastodon %}
+    {% endif %} {% if site.author.mastodon %}
     <a
       href="{{site.author.mastodon}}"
       class="social-links__entry"
@@ -42,8 +42,7 @@
     >
       <i class="fab fa-mastodon"></i>
     </a>
-    {% endif %}
-    {% if site.author.twitter %}
+    {% endif %} {% if site.author.twitter %}
     <a
       href="https://twitter.com/{{ site.author.twitter }}"
       class="social-links__entry"
@@ -51,8 +50,7 @@
     >
       <i class="fab fa-twitter"></i>
     </a>
-    {% endif %}
-    {% if site.author.youtube %}
+    {% endif %} {% if site.author.youtube %}
     <a
       href="{{ site.author.youtube }}"
       class="social-links__entry"
@@ -60,8 +58,7 @@
     >
       <i class="fab fa-youtube"></i>
     </a>
-    {% endif %}
-    {% if site.author.linkedin %}
+    {% endif %} {% if site.author.linkedin %}
     <a
       href="https://in.linkedin.com/in/{{ site.author.linkedin }}"
       class="social-links__entry"
@@ -69,8 +66,7 @@
     >
       <i class="fab fa-linkedin-in"></i>
     </a>
-    {% endif %}
-    {% if site.rss %}
+    {% endif %} {% if site.rss %}
     <a
       href="{{ site.url }}/feed.xml"
       class="social-links__entry"
