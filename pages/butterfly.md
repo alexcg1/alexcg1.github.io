@@ -10,7 +10,7 @@ sitemap:
 ---
 
 <figure style="text-align: center; margin: 0 auto;">
-  <video controls muted autoplay style="display: block; max-width: 100%; height: auto;">
+  <video controls muted autoplay loop style="display: block; max-width: 100%; height: auto;">
     <source src="/assets/video/butterfly/bell_jar.mp4" type="video/mp4">
       Your browser does not support the video tag.
   </video>
