@@ -20,6 +20,10 @@ This page is a work-in-progress list of frequently-asked questions about my ongo
 
 It's a piece of jewelry that sits on you and moves like a real life-size (more or less) butterfly.
 
+### Can I Buy One?
+
+Right now I'm still working on building the thing. I'm looking to potentially sell them in future though.
+
 ### Why Do This?
 
 I had a dream one night that I was covered in butterflies. I woke up and wondered how to make that a reality. Then I wondered how to _ethically_ make it a reality. Hence this project.
