@@ -10,7 +10,7 @@ sitemap:
 ---
 
 <video controls muted>
-<source src="/assets/video/butterfly/bell_jar.mp4" type="video/mp3">
+<source src="/assets/video/butterfly/bell_jar.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
