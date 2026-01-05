@@ -9,10 +9,13 @@ sitemap:
   priority: 1.0
 ---
 
-<video controls muted>
-<source src="/assets/video/butterfly/bell_jar.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure style="text-align: center; margin: 0 auto;">
+  <video controls muted autoplay style="display: block; max-width: 100%; height: auto;">
+    <source src="/assets/video/butterfly/bell_jar.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+  <figcaption style="font-style: italic; margin-top: 12px; color: #666;">Work in progress butterfly</figcaption>
+</figure>
 
 This page is a work-in-progress list of frequently-asked questions about my ongoing butterfly project.
 
