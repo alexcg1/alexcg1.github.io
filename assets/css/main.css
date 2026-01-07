@@ -94,6 +94,7 @@ a.logo:hover {
   color: #16a085;
   display: block;
   text-decoration: none;
+  font-family: "Roboto Slab", serif;
 }
 
 .menu {
@@ -103,6 +104,7 @@ a.logo:hover {
   margin-top: 6px;
   padding: 0px;
   list-style-type: none;
+  font-family: "Roboto Slab", serif;
 }
 
 .menu__entry {
